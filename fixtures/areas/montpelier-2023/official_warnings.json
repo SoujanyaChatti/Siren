@@ -1,0 +1,280 @@
+[
+ {
+  "id": "BTV.FF.W.0024.2023-07-10T06:24:00Z",
+  "event": "Flash Flood Warning",
+  "vtec": "FF.W",
+  "eventid": 24,
+  "issued_at": "2023-07-10T06:24:00Z",
+  "expires_at": "2023-07-10T12:30:00Z",
+  "polygon": {
+   "type": "MultiPolygon",
+   "coordinates": [
+    [
+     [
+      [
+       -72.96,
+       44.19
+      ],
+      [
+       -72.83,
+       44.56
+      ],
+      [
+       -72.78,
+       44.69
+      ],
+      [
+       -72.19,
+       44.62
+      ],
+      [
+       -72.32,
+       44.19
+      ],
+      [
+       -72.41,
+       43.89
+      ],
+      [
+       -72.94,
+       43.94
+      ],
+      [
+       -72.96,
+       43.89
+      ],
+      [
+       -73.26,
+       43.91
+      ],
+      [
+       -73.2,
+       44.08
+      ],
+      [
+       -73,
+       44.07
+      ],
+      [
+       -72.96,
+       44.19
+      ]
+     ]
+    ]
+   ]
+  },
+  "source_url": "https://mesonet.agron.iastate.edu/vtec/#2023-O-NEW-KBTV-FF-W-0024"
+ },
+ {
+  "id": "BTV.FA.W.0019.2023-07-10T18:25:00Z",
+  "event": "Flood Warning (areal)",
+  "vtec": "FA.W",
+  "eventid": 19,
+  "issued_at": "2023-07-10T18:25:00Z",
+  "expires_at": "2023-07-11T00:30:00Z",
+  "polygon": {
+   "type": "MultiPolygon",
+   "coordinates": [
+    [
+     [
+      [
+       -72.84,
+       45.02
+      ],
+      [
+       -71.87,
+       45.01
+      ],
+      [
+       -72.06,
+       44.58
+      ],
+      [
+       -72.2,
+       44.6
+      ],
+      [
+       -72.47,
+       43.91
+      ],
+      [
+       -72.95,
+       43.93
+      ],
+      [
+       -72.96,
+       43.89
+      ],
+      [
+       -73.26,
+       43.87
+      ],
+      [
+       -72.84,
+       45.02
+      ]
+     ]
+    ]
+   ]
+  },
+  "source_url": "https://mesonet.agron.iastate.edu/vtec/#2023-O-NEW-KBTV-FA-W-0019"
+ },
+ {
+  "id": "BTV.FL.W.0007.2023-07-10T19:32:00Z",
+  "event": "Flood Warning (river)",
+  "vtec": "FL.W",
+  "eventid": 7,
+  "issued_at": "2023-07-10T19:32:00Z",
+  "expires_at": "2023-07-11T21:05:00Z",
+  "polygon": {
+   "type": "MultiPolygon",
+   "coordinates": [
+    [
+     [
+      [
+       -72.65,
+       44.29
+      ],
+      [
+       -72.6,
+       44.27
+      ],
+      [
+       -72.58,
+       44.27
+      ],
+      [
+       -72.52,
+       44.25
+      ],
+      [
+       -72.49,
+       44.28
+      ],
+      [
+       -72.45,
+       44.27
+      ],
+      [
+       -72.5,
+       44.23
+      ],
+      [
+       -72.54,
+       44.23
+      ],
+      [
+       -72.49,
+       44.2
+      ],
+      [
+       -72.5,
+       44.18
+      ],
+      [
+       -72.57,
+       44.23
+      ],
+      [
+       -72.57,
+       44.24
+      ],
+      [
+       -72.61,
+       44.25
+      ],
+      [
+       -72.67,
+       44.27
+      ],
+      [
+       -72.65,
+       44.29
+      ]
+     ]
+    ]
+   ]
+  },
+  "source_url": "https://mesonet.agron.iastate.edu/vtec/#2023-O-NEW-KBTV-FL-W-0007"
+ },
+ {
+  "id": "BTV.FF.W.0030.2023-07-10T22:00:00Z",
+  "event": "Flash Flood Warning",
+  "vtec": "FF.W",
+  "eventid": 30,
+  "issued_at": "2023-07-10T22:00:00Z",
+  "expires_at": "2023-07-11T01:00:00Z",
+  "polygon": {
+   "type": "MultiPolygon",
+   "coordinates": [
+    [
+     [
+      [
+       -72.76,
+       44.33
+      ],
+      [
+       -72.57,
+       44.32
+      ],
+      [
+       -72.34,
+       44.29
+      ],
+      [
+       -72.43,
+       44.01
+      ],
+      [
+       -72.82,
+       44.02
+      ],
+      [
+       -72.76,
+       44.33
+      ]
+     ]
+    ]
+   ]
+  },
+  "source_url": "https://mesonet.agron.iastate.edu/vtec/#2023-O-NEW-KBTV-FF-W-0030"
+ },
+ {
+  "id": "BTV.FF.W.0033.2023-07-11T08:16:00Z",
+  "event": "Flash Flood Warning",
+  "vtec": "FF.W",
+  "eventid": 33,
+  "issued_at": "2023-07-11T08:16:00Z",
+  "expires_at": "2023-07-11T11:08:00Z",
+  "polygon": {
+   "type": "MultiPolygon",
+   "coordinates": [
+    [
+     [
+      [
+       -72.62,
+       44.19
+      ],
+      [
+       -72.6,
+       44.27
+      ],
+      [
+       -72.42,
+       44.24
+      ],
+      [
+       -72.44,
+       44.13
+      ],
+      [
+       -72.62,
+       44.19
+      ]
+     ]
+    ]
+   ]
+  },
+  "source_url": "https://mesonet.agron.iastate.edu/vtec/#2023-O-NEW-KBTV-FF-W-0033"
+ }
+]

@@ -1,0 +1,20 @@
+{
+  "image": "demo_underpass.jpg",
+  "image_sha256": "2b4a18074c20a8d8dec78be1ae1e802252da8f2ec54da525ab97b8676af2a5eb",
+  "model": "human-reference-annotation",
+  "note": "Committed reference annotation so the offline demo works without an API key. It is NOT a Gemini output and the evidence panel labels it 'fixture'. Run scripts/warm_cache.py with GEMINI_API_KEY to replace it with a real cached Gemini Flash analysis.",
+  "license": "Public domain (FEMA photo by Dominick Del Vecchio, Houston TX, 2017-08-31). https://commons.wikimedia.org/wiki/File:FEMA_-_IMG_0401MEB_-_Cars_Floating_in_Houston_Street.jpg",
+  "analysis": {
+    "reference_objects": [
+      {"type": "car_tire", "typical_height_in": 29, "waterline_fraction": 0.65, "box": [0.185, 0.555, 0.225, 0.605],
+       "where": "rear tire of the dark SUV on the left; water covers about two-thirds of the tire"}
+    ],
+    "depth_in": 19,
+    "depth_low_in": 15,
+    "depth_high_in": 24,
+    "confidence": 0.7,
+    "is_road": true,
+    "waterline_y": 0.592,
+    "notes": "Water reaches roughly two-thirds up the SUV's tire, near the top of the wheel hub. Speed-limit signs confirm this is a road."
+  }
+}

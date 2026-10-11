@@ -1,0 +1,38 @@
+{
+ "output": {
+  "reference_objects": [
+   {
+    "type": "truck tire",
+    "typical_height_in": 31.0,
+    "waterline_fraction": 0.22,
+    "box": [
+     0.506,
+     0.77,
+     0.607,
+     0.802
+    ]
+   },
+   {
+    "type": "adult standing",
+    "typical_height_in": 68.0,
+    "waterline_fraction": 0.09,
+    "box": [
+     0.389,
+     0.825,
+     0.575,
+     0.865
+    ]
+   }
+  ],
+  "depth_in": 8.0,
+  "depth_low_in": 5.0,
+  "depth_high_in": 12.0,
+  "confidence": 0.8,
+  "is_road": true,
+  "notes": "Floodwater covers the roadway with the deepest visible area around the center dip and near the black pickup truck, where water reaches mid-shin on a standing adult and approximately 20-25% up the truck tire.",
+  "waterline_y": 0.575
+ },
+ "model": "gemini-flash-latest",
+ "path": "gemini",
+ "created": "2026-10-11T16:51:51.327454+00:00"
+}

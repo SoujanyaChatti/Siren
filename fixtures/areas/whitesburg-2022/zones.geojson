@@ -1,0 +1,89 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "A",
+    "name": "Zone A — Downtown Whitesburg",
+    "name_es": "Zona A — Centro de Whitesburg",
+    "gauge": "WHTK2",
+    "rain": "JKL",
+    "roads": [
+     {
+      "road_id": "A-MAIN",
+      "name": "Main St, Whitesburg",
+      "lat": 37.1175,
+      "lon": -82.825,
+      "kind": "downtown street along the river (demo location)"
+     }
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -82.832,
+       37.114
+      ],
+      [
+       -82.82,
+       37.114
+      ],
+      [
+       -82.818,
+       37.1215
+      ],
+      [
+       -82.83,
+       37.122
+      ],
+      [
+       -82.832,
+       37.114
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "B",
+    "name": "Zone B — West Whitesburg / KY 15",
+    "name_es": "Zona B — Oeste de Whitesburg / KY 15",
+    "gauge": "WHTK2",
+    "rain": "JKL",
+    "roads": []
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -82.846,
+       37.111
+      ],
+      [
+       -82.832,
+       37.114
+      ],
+      [
+       -82.83,
+       37.122
+      ],
+      [
+       -82.844,
+       37.123
+      ],
+      [
+       -82.846,
+       37.111
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

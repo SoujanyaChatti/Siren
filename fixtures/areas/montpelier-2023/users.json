@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sofia",
+    "name": "Sofía",
+    "language": "es",
+    "zone_id": "A",
+    "vehicle": "sedan",
+    "needs": {
+      "commute": "Drives through downtown on Main St",
+      "large_text": false,
+      "prefers_voice": false
+    }
+  },
+  {
+    "id": "tom",
+    "name": "Tom",
+    "language": "en",
+    "zone_id": "B",
+    "vehicle": "suv",
+    "needs": {
+      "mobility": "His father lives with him and uses a wheelchair",
+      "large_text": false,
+      "prefers_voice": false
+    }
+  },
+  {
+    "id": "elena",
+    "name": "Elena",
+    "language": "es",
+    "zone_id": "C",
+    "vehicle": null,
+    "needs": {
+      "older_adult": true,
+      "large_text": true,
+      "prefers_voice": true
+    }
+  }
+]

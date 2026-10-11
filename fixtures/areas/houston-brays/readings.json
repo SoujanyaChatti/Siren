@@ -1,0 +1,2747 @@
+[
+ {
+  "time": "2024-07-08T02:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T02:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 20.12,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T02:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T02:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T02:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.66,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T02:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 20.07,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T02:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T02:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T02:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.56,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T02:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.99,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T02:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T02:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T02:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.5,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T02:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.91,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T02:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T02:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T03:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.4,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T03:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.82,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T03:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T03:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T03:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.32,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T03:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T03:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T03:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T03:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T03:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.68,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T03:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T03:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T03:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.16,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T03:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.57,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T03:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T03:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T04:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.09,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T04:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.5,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T04:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T04:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T04:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.03,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T04:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.43,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T04:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T04:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T04:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.95,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T04:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.34,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T04:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T04:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T04:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T04:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.25,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T04:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T04:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T05:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.8,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T05:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.16,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T05:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T05:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T05:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.75,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T05:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.09,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T05:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T05:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T05:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.68,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T05:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.01,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T05:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T05:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T05:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.63,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T05:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 18.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T05:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T05:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T06:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.59,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T06:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 18.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T06:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T06:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T06:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.54,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T06:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 18.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T06:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T06:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T06:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.51,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T06:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 18.8,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T06:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T06:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T06:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.49,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T06:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 18.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T06:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T06:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T07:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.51,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T07:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 18.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T07:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T07:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.11,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T07:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.54,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T07:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 18.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T07:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T07:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T07:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.56,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T07:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 18.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T07:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T07:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T07:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.62,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T07:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 18.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T07:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T07:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T08:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T08:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.01,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T08:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T08:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.17,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T08:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 40.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T08:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.19,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T08:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T08:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T08:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.07,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T08:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.49,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T08:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T08:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T08:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.31,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T08:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 19.89,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T08:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T08:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T09:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 41.68,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T09:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 20.29,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T09:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T09:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.39,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T09:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 42.37,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T09:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 21.15,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T09:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T09:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.19,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T09:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 43.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T09:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 23.0,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T09:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T09:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.58,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T09:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 46.28,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T09:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 26.29,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T09:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T09:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.56,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T10:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 48.83,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T10:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 29.97,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T10:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 1.79,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T10:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.23,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T10:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 50.49,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T10:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 31.86,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T10:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T10:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T10:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 51.59,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T10:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 33.3,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T10:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.05,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T10:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.43,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T10:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 52.44,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T10:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 34.56,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T10:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T10:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T11:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 52.96,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T11:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 35.64,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T11:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.81,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T11:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.67,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T11:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 53.32,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T11:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 36.38,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T11:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T11:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.26,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T11:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 37.05,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T11:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T11:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T11:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 55.02,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T11:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 37.8,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T11:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T11:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.74,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T12:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 55.58,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T12:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 38.22,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T12:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 1.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T12:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.24,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T12:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 55.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T12:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 38.5,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T12:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T12:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.27,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T12:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 56.18,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T12:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 38.95,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T12:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T12:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.2,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T12:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 56.35,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T12:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 39.16,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T12:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.11,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T12:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.12,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T13:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 56.72,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T13:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 39.45,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T13:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.79,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T13:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.48,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T13:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 39.85,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T13:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T13:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T13:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 57.22,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T13:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 40.28,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T13:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T13:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T13:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 57.23,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T13:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 40.75,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T13:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T13:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T14:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 40.92,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T14:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T14:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T14:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 57.3,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T14:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 41.23,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T14:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T14:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T14:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 57.39,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T14:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 41.52,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T14:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T14:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T14:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 57.43,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T14:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 41.6,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T14:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T14:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T15:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 57.36,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T15:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 41.68,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T15:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T15:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T15:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 57.26,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T15:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 41.73,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T15:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T15:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T15:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 57.18,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T15:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 41.63,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T15:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T15:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T15:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 56.97,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T15:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 41.45,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T15:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T15:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T16:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 56.75,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T16:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 41.27,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T16:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.05,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T16:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T16:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 56.54,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T16:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 41.02,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T16:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T16:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T16:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 56.31,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T16:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 40.7,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T16:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T16:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T16:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 56.17,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T16:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 40.4,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T16:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T16:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T17:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 55.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T17:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 40.0,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T17:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T17:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T17:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 55.69,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T17:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 39.65,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T17:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T17:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T17:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 55.48,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T17:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 39.27,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T17:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T17:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T17:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 55.25,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T17:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 38.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T17:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T17:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T18:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 54.99,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T18:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 38.49,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T18:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T18:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T18:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 54.73,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T18:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 38.08,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T18:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T18:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T18:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 53.93,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T18:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 37.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T18:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T18:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T18:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 54.17,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T18:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 37.36,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T18:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T18:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T19:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 53.58,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T19:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 36.99,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T19:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T19:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T19:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 53.41,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T19:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 36.62,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T19:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T19:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T19:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 53.2,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T19:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 36.23,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T19:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T19:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T19:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 52.99,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T19:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 35.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T19:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T19:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T20:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 52.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T20:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 35.49,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T20:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T20:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T20:15:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 52.57,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T20:15:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 35.09,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T20:15:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T20:15:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T20:30:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 52.3,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T20:30:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 34.69,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T20:30:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T20:30:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T20:45:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 52.02,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T20:45:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 34.35,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T20:45:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T20:45:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T21:00:00Z",
+  "source": "usgs",
+  "station_id": "GSST2",
+  "metric": "stage_ft",
+  "value": 51.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08074810/"
+ },
+ {
+  "time": "2024-07-08T21:00:00Z",
+  "source": "usgs",
+  "station_id": "HBMT2",
+  "metric": "stage_ft",
+  "value": 33.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-08075000/"
+ },
+ {
+  "time": "2024-07-08T21:00:00Z",
+  "source": "nws_asos",
+  "station_id": "HOU",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+ },
+ {
+  "time": "2024-07-08T21:00:00Z",
+  "source": "nws_asos",
+  "station_id": "SGR",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+ }
+]

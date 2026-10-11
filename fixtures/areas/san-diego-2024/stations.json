@@ -1,0 +1,34 @@
+{
+  "gauges": [
+    {
+      "station_id": "FSNC1",
+      "usgs_id": "11023000",
+      "name": "San Diego River at Fashion Valley",
+      "short_en": "San Diego River at Fashion Valley",
+      "short_es": "San Diego River en Fashion Valley",
+      "lat": 32.765,
+      "lon": -117.16777777778,
+      "flood_stages_ft": {
+        "action": 7.5,
+        "minor": 10,
+        "moderate": 13.5,
+        "major": 16.5
+      },
+      "flood_stages_source": "https://water.noaa.gov/gauges/fsnc1",
+      "short": {
+        "en": "San Diego River at Fashion Valley",
+        "es": "San Diego River en Fashion Valley"
+      }
+    }
+  ],
+  "rain": [
+    {
+      "station_id": "SAN",
+      "network": "CA_ASOS",
+      "name": "San Diego Lindbergh Field (NWS ASOS)",
+      "lat": 32.7339,
+      "lon": -117.1845,
+      "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SAN&network=CA_ASOS"
+    }
+  ]
+}

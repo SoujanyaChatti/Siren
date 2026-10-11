@@ -1,0 +1,1415 @@
+[
+ {
+  "time": "2022-07-28T00:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T00:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T00:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T00:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T00:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T00:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T00:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T00:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T01:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T01:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T01:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T01:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.89,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T01:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T01:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.9,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T01:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T01:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.91,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T02:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.76,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T02:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.91,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T02:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.92,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T02:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.93,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T02:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.15,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T02:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T02:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.95,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T02:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 2.98,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T03:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.37,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T03:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.01,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T03:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T03:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.04,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T03:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T03:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.05,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T03:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.14,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T03:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.05,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T04:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T04:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.04,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T04:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T04:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.12,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T04:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.2,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T04:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T04:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T04:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.32,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T05:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T05:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.33,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T05:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.05,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T05:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.49,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T05:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.11,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T05:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.8,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T05:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T05:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 3.97,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T06:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T06:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 4.23,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T06:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T06:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 4.72,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T06:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T06:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 5.25,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T06:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T06:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 5.58,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T07:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T07:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 6.07,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T07:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.18,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T07:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 6.52,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T07:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.35,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T07:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 6.99,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T07:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.14,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T07:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 7.52,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T08:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.07,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T08:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 7.35,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T08:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T08:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 7.96,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T08:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T08:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 8.61,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T08:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T08:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 8.99,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T09:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T09:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 9.43,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T09:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T09:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 9.8,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T09:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T09:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 10.46,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T09:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T09:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 11.07,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T10:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T10:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 11.45,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T10:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T10:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 11.43,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T10:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T10:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 13.98,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T10:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T10:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 14.36,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T11:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T11:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 14.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T11:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T11:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 16.41,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T11:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T11:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 16.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T11:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T12:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T12:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T12:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T12:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T12:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 18.8,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T13:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T13:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 19.06,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T13:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T13:15:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 19.38,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T13:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T13:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 19.53,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T13:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T13:45:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 20.54,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T14:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T14:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 20.89,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T14:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T14:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T14:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T15:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T15:00:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 22.04,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T15:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T15:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T15:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T16:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T16:05:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 21.81,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T16:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T16:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T16:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T17:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T17:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T17:25:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 20.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T17:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T17:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T18:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T18:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T18:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T18:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T19:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T19:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T19:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T19:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T20:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T20:10:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 14.99,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T20:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T20:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T20:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T21:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T21:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T21:22:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 13.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T21:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T21:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T22:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T22:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T22:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T22:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T23:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T23:13:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 9.29,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T23:15:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T23:30:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-28T23:30:00Z",
+  "source": "usgs",
+  "station_id": "WHTK2",
+  "metric": "stage_ft",
+  "value": 8.89,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-03277300/"
+ },
+ {
+  "time": "2022-07-28T23:45:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ },
+ {
+  "time": "2022-07-29T00:00:00Z",
+  "source": "nws_asos",
+  "station_id": "JKL",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=JKL&network=KY_ASOS"
+ }
+]

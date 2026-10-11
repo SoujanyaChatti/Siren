@@ -1,0 +1,127 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "A",
+    "name": "Zone A — Mission Valley West / Hotel Circle",
+    "name_es": "Zona A — Mission Valley Oeste / Hotel Circle",
+    "gauge": "FSNC1",
+    "rain": "SAN",
+    "roads": []
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -117.195,
+       32.758
+      ],
+      [
+       -117.176,
+       32.76
+      ],
+      [
+       -117.176,
+       32.77
+      ],
+      [
+       -117.195,
+       32.768
+      ],
+      [
+       -117.195,
+       32.758
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "B",
+    "name": "Zone B — Fashion Valley / Mission Center",
+    "name_es": "Zona B — Fashion Valley / Mission Center",
+    "gauge": "FSNC1",
+    "rain": "SAN",
+    "roads": [
+     {
+      "road_id": "B-FASHION-VALLEY",
+      "name": "Fashion Valley Rd river crossing",
+      "lat": 32.7655,
+      "lon": -117.1705,
+      "kind": "low crossing of the San Diego River (demo location)"
+     }
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -117.176,
+       32.76
+      ],
+      [
+       -117.152,
+       32.762
+      ],
+      [
+       -117.152,
+       32.772
+      ],
+      [
+       -117.176,
+       32.77
+      ],
+      [
+       -117.176,
+       32.76
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "C",
+    "name": "Zone C — Mission Valley East / Stadium",
+    "name_es": "Zona C — Mission Valley Este / Estadio",
+    "gauge": "FSNC1",
+    "rain": "SAN",
+    "roads": []
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -117.152,
+       32.762
+      ],
+      [
+       -117.115,
+       32.77
+      ],
+      [
+       -117.115,
+       32.784
+      ],
+      [
+       -117.152,
+       32.772
+      ],
+      [
+       -117.152,
+       32.762
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

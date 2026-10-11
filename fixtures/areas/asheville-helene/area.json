@@ -1,0 +1,14 @@
+{
+  "id": "asheville-helene",
+  "name": "French Broad & Swannanoa Rivers, Asheville NC",
+  "short_name": "Asheville",
+  "storm": "Hurricane Helene — Sept 25–27, 2024",
+  "tz": "America/New_York",
+  "replay_start": "2024-09-25T21:30:00Z",
+  "replay_end": "2024-09-27T23:00:00Z",
+  "default_speed": 300,
+  "audience_default_zone": "A",
+  "demo_photo": {"file": "photos/demo_underpass.jpg", "zone_id": "A", "road_id": "A-SWANNANOA-BILTMORE"},
+  "rain_source": "NWS ASOS (Asheville Regional Airport) via Iowa Environmental Mesonet",
+  "description": "Record flooding: both rivers passed NOAA major flood stage; the Swannanoa gauge went silent for hours at the peak."
+}

@@ -1,0 +1,54 @@
+{
+  "gauges": [
+    {
+      "station_id": "MONV1",
+      "usgs_id": "04286000",
+      "name": "Winooski River at Montpelier",
+      "short_en": "Winooski River at Montpelier",
+      "short_es": "Winooski River en Montpelier",
+      "lat": 44.256666666667,
+      "lon": -72.593888888889,
+      "flood_stages_ft": {
+        "action": 11,
+        "minor": 15,
+        "moderate": 16,
+        "major": 17.5
+      },
+      "flood_stages_source": "https://water.noaa.gov/gauges/monv1",
+      "short": {
+        "en": "Winooski River at Montpelier",
+        "es": "Winooski River en Montpelier"
+      }
+    },
+    {
+      "station_id": "NFFV1",
+      "usgs_id": "04287000",
+      "name": "Dog River at Northfield Falls",
+      "short_en": "Dog River at Northfield Falls",
+      "short_es": "Dog River en Northfield Falls",
+      "lat": 44.1825,
+      "lon": -72.641111111111,
+      "flood_stages_ft": {
+        "action": 7,
+        "minor": 8,
+        "moderate": 10,
+        "major": 11
+      },
+      "flood_stages_source": "https://water.noaa.gov/gauges/nffv1",
+      "short": {
+        "en": "Dog River at Northfield Falls",
+        "es": "Dog River en Northfield Falls"
+      }
+    }
+  ],
+  "rain": [
+    {
+      "station_id": "MPV",
+      "network": "VT_ASOS",
+      "name": "Barre-Montpelier Knapp State Airport (NWS ASOS)",
+      "lat": 44.2035,
+      "lon": -72.5623,
+      "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+    }
+  ]
+}

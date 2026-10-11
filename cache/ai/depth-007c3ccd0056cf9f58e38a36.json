@@ -1,0 +1,27 @@
+{
+ "output": {
+  "reference_objects": [
+   {
+    "type": "car tire",
+    "typical_height_in": 25.0,
+    "waterline_fraction": 0.35,
+    "box": [
+     0.435,
+     0.354,
+     0.581,
+     0.584
+    ]
+   }
+  ],
+  "depth_in": 9.0,
+  "depth_low_in": 6.0,
+  "depth_high_in": 13.0,
+  "confidence": 0.65,
+  "is_road": true,
+  "notes": "A black compact car is driving through the flooded lane, displacing water up to approximately lower hub level (around 8-10 inches). The nearer lanes show surface runoff rather than deep pooling.",
+  "waterline_y": 0.58
+ },
+ "model": "gemini-flash-latest",
+ "path": "gemini",
+ "created": "2026-10-11T16:50:07.587842+00:00"
+}

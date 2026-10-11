@@ -1,0 +1,14 @@
+{
+  "id": "houston-brays",
+  "name": "Brays Bayou, Houston TX",
+  "short_name": "Houston",
+  "storm": "Hurricane Beryl — July 8, 2024",
+  "tz": "America/Chicago",
+  "replay_start": "2024-07-08T03:00:00Z",
+  "replay_end": "2024-07-08T21:00:00Z",
+  "default_speed": 60,
+  "audience_default_zone": "B",
+  "demo_photo": {"file": "photos/demo_underpass.jpg", "zone_id": "B", "road_id": "B-RICE-BRAESWOOD"},
+  "rain_source": "NWS ASOS (Sugar Land, Hobby) via Iowa Environmental Mesonet",
+  "description": "Brays Bayou crossed action and minor flood stage at both gauges as Beryl's rain bands moved through."
+}

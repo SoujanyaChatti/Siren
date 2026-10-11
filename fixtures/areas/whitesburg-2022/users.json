@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mary",
+    "name": "Mary",
+    "language": "en",
+    "zone_id": "A",
+    "vehicle": "pickup",
+    "needs": {
+      "commute": "Drives Main St to work",
+      "large_text": false,
+      "prefers_voice": false
+    }
+  },
+  {
+    "id": "jose",
+    "name": "José",
+    "language": "es",
+    "zone_id": "A",
+    "vehicle": "sedan",
+    "needs": {
+      "mobility": "Lives with his grandmother, who uses a walker",
+      "large_text": false,
+      "prefers_voice": false
+    }
+  },
+  {
+    "id": "ruth",
+    "name": "Ruth",
+    "language": "en",
+    "zone_id": "B",
+    "vehicle": null,
+    "needs": {
+      "older_adult": true,
+      "large_text": true,
+      "prefers_voice": true
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "A", "name": "Zone A — Biltmore Village", "name_es": "Zona A — Biltmore Village",
+        "gauge": "BLTN7", "rain": "AVL",
+        "roads": [
+          {"road_id": "A-SWANNANOA-BILTMORE", "name": "Swannanoa River Rd / Biltmore Ave", "lat": 35.5691, "lon": -82.5444,
+           "kind": "low crossing next to the Swannanoa River (demo location)"}
+        ]
+      },
+      "geometry": {"type": "Polygon", "coordinates": [[[-82.5600, 35.5590], [-82.5440, 35.5600], [-82.5270, 35.5620], [-82.5270, 35.5745], [-82.5440, 35.5735], [-82.5590, 35.5700], [-82.5600, 35.5590]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "B", "name": "Zone B — River Arts District", "name_es": "Zona B — River Arts District",
+        "gauge": "AVLN7", "rain": "AVL",
+        "roads": []
+      },
+      "geometry": {"type": "Polygon", "coordinates": [[[-82.5760, 35.5730], [-82.5640, 35.5735], [-82.5600, 35.5850], [-82.5640, 35.5990], [-82.5720, 35.6080], [-82.5830, 35.6060], [-82.5780, 35.5900], [-82.5760, 35.5730]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "C", "name": "Zone C — Amboy Rd / Carrier Park", "name_es": "Zona C — Amboy Rd / Carrier Park",
+        "gauge": "AVLN7", "rain": "AVL",
+        "roads": []
+      },
+      "geometry": {"type": "Polygon", "coordinates": [[[-82.5900, 35.5600], [-82.5760, 35.5600], [-82.5600, 35.5640], [-82.5600, 35.5700], [-82.5640, 35.5735], [-82.5760, 35.5730], [-82.5900, 35.5700], [-82.5900, 35.5600]]]}
+    }
+  ]
+}

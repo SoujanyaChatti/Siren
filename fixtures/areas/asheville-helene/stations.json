@@ -1,0 +1,54 @@
+{
+  "gauges": [
+    {
+      "station_id": "AVLN7",
+      "usgs_id": "03451500",
+      "name": "French Broad River at Asheville",
+      "short_en": "French Broad River at Asheville",
+      "short_es": "French Broad River en Asheville",
+      "lat": 35.608889,
+      "lon": -82.578056,
+      "flood_stages_ft": {
+        "action": 6.5,
+        "minor": 9.5,
+        "moderate": 13,
+        "major": 18
+      },
+      "flood_stages_source": "https://water.noaa.gov/gauges/avln7",
+      "short": {
+        "en": "French Broad River at Asheville",
+        "es": "French Broad River en Asheville"
+      }
+    },
+    {
+      "station_id": "BLTN7",
+      "usgs_id": "03451000",
+      "name": "Swannanoa River at Biltmore",
+      "short_en": "Swannanoa River at Biltmore",
+      "short_es": "Swannanoa River en Biltmore",
+      "lat": 35.568333,
+      "lon": -82.544722,
+      "flood_stages_ft": {
+        "action": 9,
+        "minor": 10,
+        "moderate": 14.5,
+        "major": 16.5
+      },
+      "flood_stages_source": "https://water.noaa.gov/gauges/bltn7",
+      "short": {
+        "en": "Swannanoa River at Biltmore",
+        "es": "Swannanoa River en Biltmore"
+      }
+    }
+  ],
+  "rain": [
+    {
+      "station_id": "AVL",
+      "network": "NC_ASOS",
+      "name": "Asheville Regional Airport (NWS ASOS)",
+      "lat": 35.4319,
+      "lon": -82.5375,
+      "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=AVL&network=NC_ASOS"
+    }
+  ]
+}

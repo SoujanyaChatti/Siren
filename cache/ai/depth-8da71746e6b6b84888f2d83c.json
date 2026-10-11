@@ -1,0 +1,38 @@
+{
+ "output": {
+  "reference_objects": [
+   {
+    "type": "car tire",
+    "typical_height_in": 27.0,
+    "waterline_fraction": 0.45,
+    "box": [
+     0.185,
+     0.56,
+     0.222,
+     0.602
+    ]
+   },
+   {
+    "type": "sedan",
+    "typical_height_in": 56.0,
+    "waterline_fraction": 0.38,
+    "box": [
+     0.405,
+     0.503,
+     0.485,
+     0.555
+    ]
+   }
+  ],
+  "depth_in": 22.0,
+  "depth_low_in": 16.0,
+  "depth_high_in": 28.0,
+  "confidence": 0.8,
+  "is_road": true,
+  "notes": "Floodwater covers a roadway with multiple submerged vehicles. Near the foreground crossover SUV, the water reaches roughly mid-tire (12-14 inches). Further down the road, a sedan is submerged to just below its trunk and over the rear bumper, indicating water depth around 20-25 inches.",
+  "waterline_y": 0.548
+ },
+ "model": "gemini-flash-latest",
+ "path": "gemini",
+ "created": "2026-10-11T16:49:35.468191+00:00"
+}

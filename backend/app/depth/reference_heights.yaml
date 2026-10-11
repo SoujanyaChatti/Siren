@@ -1,0 +1,7 @@
+# Typical (approximate) heights of reference objects used for photo depth estimation, in inches.
+# These are typical values, not measurements; real objects vary. Keep the range, not a single number.
+car_tire: {typical_in: 28, range_in: [26, 30]}
+sedan_wheel_hub: {typical_in: 14, range_in: [13, 15], note: "hub centre height above ground"}
+standard_curb: {typical_in: 6, range_in: [6, 6]}
+adult_knee: {typical_in: 19, range_in: [18, 20]}
+depth_marker_post: {typical_in: null, note: "read the marked value directly"}

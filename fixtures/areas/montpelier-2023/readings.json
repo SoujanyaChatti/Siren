@@ -1,0 +1,5537 @@
+[
+ {
+  "time": "2023-07-10T00:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 4.92,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T00:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T00:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.28,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T00:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 4.93,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T00:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T00:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.29,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T00:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 4.95,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T00:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T00:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.31,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T00:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 4.99,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T00:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T00:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.35,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T01:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.02,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T01:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T01:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.39,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T01:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.07,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T01:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T01:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.4,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T01:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.11,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T01:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T01:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.42,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T01:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.15,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T01:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.1,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T01:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.44,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T02:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.22,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T02:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.07,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T02:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.45,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T02:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.27,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T02:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T02:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.46,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T02:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.31,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T02:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.07,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T02:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.47,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T02:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.37,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T02:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T02:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.48,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T03:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.42,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T03:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T03:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.5,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T03:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.47,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T03:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T03:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.52,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T03:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.51,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T03:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T03:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.55,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T03:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.55,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T03:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T03:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.6,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T04:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.56,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T04:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T04:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.64,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T04:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.59,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T04:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T04:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.65,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T04:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.61,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T04:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T04:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.68,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T04:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.63,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T04:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T04:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.71,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T05:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.64,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T05:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T05:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.71,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T05:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.65,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T05:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T05:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.68,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T05:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.67,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T05:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T05:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.67,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T05:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.71,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T05:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T05:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.67,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T06:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.76,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T06:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T06:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.7,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T06:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.82,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T06:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T06:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T06:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T06:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T06:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T06:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.91,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T06:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T06:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T07:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T07:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T07:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T07:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 5.98,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T07:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T07:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.9,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T07:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.01,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T07:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T07:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.92,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T07:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.04,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T07:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T07:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.95,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T08:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.09,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T08:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.2,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T08:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 1.98,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T08:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.12,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T08:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.05,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T08:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 2.01,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T08:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.16,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T08:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T08:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 2.06,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T08:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.22,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T08:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T08:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 2.1,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T09:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.27,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T09:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.13,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T09:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 2.18,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T09:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.35,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T09:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.25,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T09:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 2.26,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T09:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.52,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T09:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.1,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T09:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 2.39,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T09:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.7,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T09:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.17,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T09:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 2.57,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T10:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 6.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T10:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.23,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T10:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 2.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T10:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 7.09,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T10:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.08,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T10:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 3.06,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T10:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 7.36,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T10:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T10:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 3.33,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T10:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 7.71,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T10:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.05,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T10:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 3.67,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T11:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 8.1,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T11:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T11:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 4.0,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T11:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 8.48,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T11:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T11:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 4.34,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T11:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 8.92,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T11:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T11:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 4.7,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T11:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 9.2,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T11:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T11:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 5.05,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T12:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 9.42,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T12:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.07,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T12:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 5.39,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T12:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 9.67,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T12:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T12:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 5.71,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T12:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 9.89,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T12:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T12:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 6.09,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T12:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 10.06,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T12:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.1,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T12:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 6.48,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T13:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 10.21,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T13:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.19,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T13:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 6.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T13:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 10.44,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T13:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.08,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T13:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 7.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T13:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 10.67,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T13:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.08,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T13:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 7.51,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T13:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 10.93,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T13:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T13:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 7.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T14:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 11.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T14:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.26,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T14:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 8.16,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T14:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 11.53,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T14:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T14:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 8.36,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T14:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 11.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T14:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T14:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 8.65,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T14:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 12.13,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T14:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T14:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 8.93,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T15:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 12.35,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T15:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T15:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.25,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T15:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 12.55,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T15:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T15:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.43,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T15:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 12.72,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T15:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T15:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.59,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T15:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 12.89,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T15:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T15:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.63,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T16:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 13.03,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T16:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T16:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T16:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 13.17,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T16:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T16:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T16:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 13.28,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T16:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T16:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.81,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T16:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 13.39,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T16:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T16:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T17:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 13.51,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T17:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T17:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.83,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T17:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 13.66,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T17:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T17:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.91,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T17:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 13.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T17:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.09,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T17:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.01,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T17:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 13.86,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T17:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T17:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.96,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T18:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 14.01,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T18:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T18:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.82,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T18:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 14.11,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T18:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T18:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T18:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 14.19,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T18:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T18:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.67,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T18:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 14.3,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T18:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.05,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T18:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.64,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T19:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 14.38,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T19:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T19:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.54,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T19:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 14.47,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T19:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.12,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T19:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.42,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T19:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 14.6,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T19:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.07,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T19:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.34,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T19:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 14.66,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T19:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.08,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T19:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.21,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T20:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 14.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T20:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.18,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T20:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.26,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T20:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 14.99,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T20:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.18,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T20:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.22,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T20:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T20:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T20:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.32,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T20:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.45,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T20:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.54,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T20:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.4,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T21:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.91,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T21:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.15,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T21:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.59,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T21:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.4,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T21:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.23,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T21:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T21:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.96,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T21:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T21:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.15,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T21:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.47,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T21:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T21:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.31,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T22:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T22:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T22:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.39,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T22:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.28,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T22:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T22:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.52,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T22:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.63,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T22:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T22:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.8,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T22:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.92,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T22:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T22:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.93,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T23:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.21,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T23:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T23:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 11.23,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T23:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.42,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T23:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T23:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 11.38,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T23:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.64,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T23:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T23:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 11.4,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-10T23:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-10T23:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-10T23:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 11.63,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T00:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.06,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T00:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T00:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 11.56,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T00:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T00:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.05,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T00:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 11.5,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T00:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.35,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T00:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T00:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 11.21,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T00:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.44,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T00:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T00:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 11.15,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T01:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.51,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T01:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.1,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T01:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 11.13,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T01:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.64,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T01:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T01:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.86,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T01:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.68,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T01:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T01:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.59,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T01:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T01:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T01:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.35,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T02:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T02:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T02:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 10.04,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T02:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.75,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T02:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T02:15:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T02:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T02:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T02:30:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.6,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T02:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T02:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T02:45:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.35,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T03:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.86,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T03:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T03:00:00Z",
+  "source": "usgs",
+  "station_id": "NFFV1",
+  "metric": "stage_ft",
+  "value": 9.15,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04287000/"
+ },
+ {
+  "time": "2023-07-11T03:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.83,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T03:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T03:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.83,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T03:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T03:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T03:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T04:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.78,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T04:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T04:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.64,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T04:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T04:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.61,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T04:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.22,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T04:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.52,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T04:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.07,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T05:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.44,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T05:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T05:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.41,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T05:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T05:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.37,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T05:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T05:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.29,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T05:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T06:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.33,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T06:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T06:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.26,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T06:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.04,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T06:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.33,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T06:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.07,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T06:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.28,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T06:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.06,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T07:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.32,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T07:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T07:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.33,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T07:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T07:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.37,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T07:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T07:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.33,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T07:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.1,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T08:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.28,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T08:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.45,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T08:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.32,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T08:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.24,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T08:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.31,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T08:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.02,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T08:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.41,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T08:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.01,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T09:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.45,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.03,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T09:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.46,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.45,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.48,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T09:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.49,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.49,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.53,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T09:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.55,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.54,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.65,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T09:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.63,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T09:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.64,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.64,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T10:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.69,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.72,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.71,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T10:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.83,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.81,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.81,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T10:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.91,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.98,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T10:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.02,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T10:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.97,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.02,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T11:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.99,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.03,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.02,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T11:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.08,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.06,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.03,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T11:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.22,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.13,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.1,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T11:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.15,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T11:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.17,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T12:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.22,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T12:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.25,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.23,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.29,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T12:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.17,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.14,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.26,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T12:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.28,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T12:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.18,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.25,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T13:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.18,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.21,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T13:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.17,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.13,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.16,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T13:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.2,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.13,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.07,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T13:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.18,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T13:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.09,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.07,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T14:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.03,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.9,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.98,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T14:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 21.0,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.93,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T14:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.86,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.85,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.84,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T14:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.76,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T14:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.73,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.71,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T15:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.66,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.61,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.59,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T15:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.58,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.54,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.51,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T15:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.45,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.42,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.29,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T15:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.33,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T15:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.31,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.23,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T16:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.24,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.16,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.14,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T16:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 20.02,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.98,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.97,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T16:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.89,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.83,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T16:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T16:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.78,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.66,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T17:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.59,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.6,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.52,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T17:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.48,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.42,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.33,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T17:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.29,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.26,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.22,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T17:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.14,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T17:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.05,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 19.04,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T18:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.98,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T18:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.78,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T18:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.65,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.61,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.6,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T18:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.52,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T18:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.44,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.39,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T19:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.33,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.26,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.19,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T19:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.15,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.09,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 18.02,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T19:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.97,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.94,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.91,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T19:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.82,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T19:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T20:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.67,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.61,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.54,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T20:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.52,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.44,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.4,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T20:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.37,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.3,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.26,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T20:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.17,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T20:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.14,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.05,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T21:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.05,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 17.0,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.93,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T21:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.87,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T21:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.71,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.65,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.65,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T21:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.56,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T21:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.49,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.46,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T22:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.43,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.37,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.31,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T22:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.26,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.26,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.17,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T22:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.15,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.09,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 16.05,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T22:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.97,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T22:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.93,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.88,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T23:05:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.81,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:10:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.79,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:15:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.74,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:15:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T23:20:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.7,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:25:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.64,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:30:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.61,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:30:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T23:35:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.57,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:40:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.56,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:45:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.48,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:45:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ },
+ {
+  "time": "2023-07-11T23:50:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.46,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-11T23:55:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.4,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-12T00:00:00Z",
+  "source": "usgs",
+  "station_id": "MONV1",
+  "metric": "stage_ft",
+  "value": 15.38,
+  "quality": "verified",
+  "source_url": "https://waterdata.usgs.gov/monitoring-location/USGS-04286000/"
+ },
+ {
+  "time": "2023-07-12T00:00:00Z",
+  "source": "nws_asos",
+  "station_id": "MPV",
+  "metric": "rain_in",
+  "value": 0.0,
+  "quality": "verified",
+  "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS"
+ }
+]

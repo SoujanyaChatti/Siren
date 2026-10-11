@@ -1,0 +1,127 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "A",
+    "name": "Zone A — Downtown Montpelier",
+    "name_es": "Zona A — Centro de Montpelier",
+    "gauge": "MONV1",
+    "rain": "MPV",
+    "roads": [
+     {
+      "road_id": "A-MAIN-STATE",
+      "name": "Main St / State St",
+      "lat": 44.2601,
+      "lon": -72.5754,
+      "kind": "downtown intersection beside the Winooski (demo location)"
+     }
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.585,
+       44.2545
+      ],
+      [
+       -72.568,
+       44.256
+      ],
+      [
+       -72.566,
+       44.264
+      ],
+      [
+       -72.584,
+       44.2635
+      ],
+      [
+       -72.585,
+       44.2545
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "B",
+    "name": "Zone B — West Montpelier / US 2",
+    "name_es": "Zona B — Oeste de Montpelier / US 2",
+    "gauge": "MONV1",
+    "rain": "MPV",
+    "roads": []
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.605,
+       44.25
+      ],
+      [
+       -72.585,
+       44.2545
+      ],
+      [
+       -72.584,
+       44.2635
+      ],
+      [
+       -72.604,
+       44.26
+      ],
+      [
+       -72.605,
+       44.25
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "C",
+    "name": "Zone C — Northfield Falls",
+    "name_es": "Zona C — Northfield Falls",
+    "gauge": "NFFV1",
+    "rain": "MPV",
+    "roads": []
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -72.652,
+       44.175
+      ],
+      [
+       -72.63,
+       44.175
+      ],
+      [
+       -72.63,
+       44.19
+      ],
+      [
+       -72.652,
+       44.19
+      ],
+      [
+       -72.652,
+       44.175
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

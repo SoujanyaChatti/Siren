@@ -1,0 +1,18 @@
+{
+  "id": "whitesburg-2022",
+  "name": "North Fork Kentucky River, Whitesburg KY",
+  "short_name": "Whitesburg",
+  "storm": "Eastern Kentucky flood — July 28, 2022",
+  "tz": "America/New_York",
+  "replay_start": "2022-07-28T00:30:00Z",
+  "replay_end": "2022-07-28T23:30:00Z",
+  "default_speed": 60,
+  "audience_default_zone": "A",
+  "demo_photo": {
+    "file": "photos/demo_underpass.jpg",
+    "zone_id": "A",
+    "road_id": "A-MAIN"
+  },
+  "rain_source": "NWS ASOS (Jackson, KY) via Iowa Environmental Mesonet",
+  "description": "Overnight deluge: the river rose 19 ft in about 10 hours to a record, then the gauge went dark for hours."
+}

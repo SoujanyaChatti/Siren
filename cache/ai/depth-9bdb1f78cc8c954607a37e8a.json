@@ -1,0 +1,38 @@
+{
+ "output": {
+  "reference_objects": [
+   {
+    "type": "car tire",
+    "typical_height_in": 29.0,
+    "waterline_fraction": 0.45,
+    "box": [
+     0.588,
+     0.495,
+     0.633,
+     0.551
+    ]
+   },
+   {
+    "type": "car tire",
+    "typical_height_in": 24.0,
+    "waterline_fraction": 0.6,
+    "box": [
+     0.414,
+     0.534,
+     0.452,
+     0.575
+    ]
+   }
+  ],
+  "depth_in": 15.0,
+  "depth_low_in": 11.0,
+  "depth_high_in": 20.0,
+  "confidence": 0.85,
+  "is_road": true,
+  "notes": "Floodwater has inundated an apartment complex parking area/access road. The water reaches roughly midway up the tires of the white SUV and slightly higher on the smaller compact sedan, covering the lower rocker panels.",
+  "waterline_y": 0.54
+ },
+ "model": "gemini-flash-latest",
+ "path": "gemini",
+ "created": "2026-10-11T16:51:40.928373+00:00"
+}

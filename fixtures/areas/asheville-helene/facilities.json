@@ -1,0 +1,146 @@
+[
+ {
+  "id": "osm-node-357800614",
+  "name": "Aycock School",
+  "kind": "school",
+  "lat": 35.578962,
+  "lon": -82.5820906,
+  "source_url": "https://www.openstreetmap.org/node/357800614"
+ },
+ {
+  "id": "osm-node-357805236",
+  "name": "Lucy B Herring Elementary School",
+  "kind": "school",
+  "lat": 35.5972117,
+  "lon": -82.5421683,
+  "source_url": "https://www.openstreetmap.org/node/357805236"
+ },
+ {
+  "id": "osm-node-357810105",
+  "name": "CarePartners Rehabilitation Hospital",
+  "kind": "hospital",
+  "lat": 35.5620193,
+  "lon": -82.5314618,
+  "source_url": "https://www.openstreetmap.org/node/357810105"
+ },
+ {
+  "id": "osm-node-3809905357",
+  "name": "Asheville Middle School",
+  "kind": "school",
+  "lat": 35.5865461,
+  "lon": -82.5611292,
+  "source_url": "https://www.openstreetmap.org/node/3809905357"
+ },
+ {
+  "id": "osm-node-12512346794",
+  "name": "12 Baskets",
+  "kind": "clinic",
+  "lat": 35.5785507,
+  "lon": -82.5881492,
+  "source_url": "https://www.openstreetmap.org/node/12512346794"
+ },
+ {
+  "id": "osm-node-13508426792",
+  "name": "Integrative Family Medicine of Asheville",
+  "kind": "clinic",
+  "lat": 35.5804782,
+  "lon": -82.5638224,
+  "source_url": "https://www.openstreetmap.org/node/13508426792"
+ },
+ {
+  "id": "osm-way-320764658",
+  "name": "Planned Parenthood - Asheville Health Center",
+  "kind": "clinic",
+  "lat": 35.5822163,
+  "lon": -82.5538632,
+  "source_url": "https://www.openstreetmap.org/way/320764658"
+ },
+ {
+  "id": "osm-way-464619431",
+  "name": "Mission Hospital",
+  "kind": "hospital",
+  "lat": 35.5766287,
+  "lon": -82.5493484,
+  "source_url": "https://www.openstreetmap.org/way/464619431"
+ },
+ {
+  "id": "osm-way-468621250",
+  "name": "Asheville Fire Station #1",
+  "kind": "fire_station",
+  "lat": 35.5946261,
+  "lon": -82.5500814,
+  "source_url": "https://www.openstreetmap.org/way/468621250"
+ },
+ {
+  "id": "osm-way-665145655",
+  "name": "Isaac Dickson Elementary School",
+  "kind": "school",
+  "lat": 35.5952964,
+  "lon": -82.5648441,
+  "source_url": "https://www.openstreetmap.org/way/665145655"
+ },
+ {
+  "id": "osm-way-684689954",
+  "name": "Brooks-Howell Home",
+  "kind": "clinic",
+  "lat": 35.6090844,
+  "lon": -82.556144,
+  "source_url": "https://www.openstreetmap.org/way/684689954"
+ },
+ {
+  "id": "osm-way-689399672",
+  "name": "Asheville Fire Department Station 2",
+  "kind": "fire_station",
+  "lat": 35.5781399,
+  "lon": -82.5604071,
+  "source_url": "https://www.openstreetmap.org/way/689399672"
+ },
+ {
+  "id": "osm-way-759892051",
+  "name": "Lucy S. Herring",
+  "kind": "school",
+  "lat": 35.5770773,
+  "lon": -82.6008806,
+  "source_url": "https://www.openstreetmap.org/way/759892051"
+ },
+ {
+  "id": "osm-way-832286770",
+  "name": "Mission Imaging Services",
+  "kind": "clinic",
+  "lat": 35.5855619,
+  "lon": -82.5556289,
+  "source_url": "https://www.openstreetmap.org/way/832286770"
+ },
+ {
+  "id": "osm-way-1135267007",
+  "name": "Asheville High School",
+  "kind": "school",
+  "lat": 35.5717618,
+  "lon": -82.5526206,
+  "source_url": "https://www.openstreetmap.org/way/1135267007"
+ },
+ {
+  "id": "osm-way-1298545897",
+  "name": "Asheville Fire Station 13",
+  "kind": "fire_station",
+  "lat": 35.6041768,
+  "lon": -82.5580599,
+  "source_url": "https://www.openstreetmap.org/way/1298545897"
+ },
+ {
+  "id": "osm-way-1382859533",
+  "name": "Laurels of GreenTree Ridge",
+  "kind": "nursing_home",
+  "lat": 35.5595407,
+  "lon": -82.5298262,
+  "source_url": "https://www.openstreetmap.org/way/1382859533"
+ },
+ {
+  "id": "osm-relation-17043379",
+  "name": "Aston Park Health Care Center, Inc.",
+  "kind": "nursing_home",
+  "lat": 35.5614403,
+  "lon": -82.5952497,
+  "source_url": "https://www.openstreetmap.org/relation/17043379"
+ }
+]

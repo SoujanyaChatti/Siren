@@ -1,0 +1,27 @@
+{
+ "output": {
+  "reference_objects": [
+   {
+    "type": "car tire",
+    "typical_height_in": 25.0,
+    "waterline_fraction": 0.8,
+    "box": [
+     0.544,
+     0.183,
+     0.656,
+     0.298
+    ]
+   }
+  ],
+  "depth_in": 20.0,
+  "depth_low_in": 15.0,
+  "depth_high_in": 26.0,
+  "confidence": 0.8,
+  "is_road": true,
+  "notes": "Floodwaters submerge the wheels of a passenger hatchback up to the bottom of the license plate / lower bumper level, indicating around 18-22 inches of depth.",
+  "waterline_y": 0.64
+ },
+ "model": "gemini-flash-latest",
+ "path": "gemini",
+ "created": "2026-10-11T16:51:11.660380+00:00"
+}

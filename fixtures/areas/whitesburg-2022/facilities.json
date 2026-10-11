@@ -1,0 +1,42 @@
+[
+ {
+  "id": "osm-node-6958888038",
+  "name": "Letcher County Alternative Education Center",
+  "kind": "school",
+  "lat": 37.1138922,
+  "lon": -82.806074,
+  "source_url": "https://www.openstreetmap.org/node/6958888038"
+ },
+ {
+  "id": "osm-way-588979242",
+  "name": "Whitesburg ARH Hospital",
+  "kind": "hospital",
+  "lat": 37.1135381,
+  "lon": -82.812686,
+  "source_url": "https://www.openstreetmap.org/way/588979242"
+ },
+ {
+  "id": "osm-way-748807761",
+  "name": "Letcher County Health Department",
+  "kind": "clinic",
+  "lat": 37.1178609,
+  "lon": -82.8224559,
+  "source_url": "https://www.openstreetmap.org/way/748807761"
+ },
+ {
+  "id": "osm-way-748867001",
+  "name": "Whitesburg Fire Department",
+  "kind": "fire_station",
+  "lat": 37.1169848,
+  "lon": -82.8237694,
+  "source_url": "https://www.openstreetmap.org/way/748867001"
+ },
+ {
+  "id": "osm-relation-10326960",
+  "name": "Letcher Manor",
+  "kind": "nursing_home",
+  "lat": 37.1136187,
+  "lon": -82.8095727,
+  "source_url": "https://www.openstreetmap.org/relation/10326960"
+ }
+]

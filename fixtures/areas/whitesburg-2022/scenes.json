@@ -1,0 +1,32 @@
+[
+  {
+    "id": "normal",
+    "label": "1. Before",
+    "time": "2022-07-28T00:30:00Z",
+    "note": "River near 3 ft; storms training overhead."
+  },
+  {
+    "id": "rising",
+    "label": "2. Downpour",
+    "time": "2022-07-28T03:00:00Z",
+    "note": "More than 2.5 in of rain in an hour at Jackson."
+  },
+  {
+    "id": "warning",
+    "label": "3. River explodes",
+    "time": "2022-07-28T09:15:00Z",
+    "note": "Stage passes minor, moderate and major in about an hour. Press play."
+  },
+  {
+    "id": "photo",
+    "label": "4. Photo",
+    "time": "2022-07-28T11:00:00Z",
+    "note": "Record crest approaching; photo report on Main St."
+  },
+  {
+    "id": "recede",
+    "label": "5. Gauge goes dark",
+    "time": "2022-07-28T19:00:00Z",
+    "note": "The gauge stops reporting for hours: SIREN shows data missing, never 'safe'."
+  }
+]

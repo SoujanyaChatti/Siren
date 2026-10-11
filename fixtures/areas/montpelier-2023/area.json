@@ -1,0 +1,18 @@
+{
+  "id": "montpelier-2023",
+  "name": "Winooski & Dog Rivers, Montpelier VT",
+  "short_name": "Montpelier",
+  "storm": "Vermont flood — July 10–11, 2023",
+  "tz": "America/New_York",
+  "replay_start": "2023-07-10T00:30:00Z",
+  "replay_end": "2023-07-11T23:30:00Z",
+  "default_speed": 300,
+  "audience_default_zone": "A",
+  "demo_photo": {
+    "file": "photos/demo_underpass.jpg",
+    "zone_id": "A",
+    "road_id": "A-MAIN-STATE"
+  },
+  "rain_source": "NWS ASOS (Barre-Montpelier airport) via Iowa Environmental Mesonet",
+  "description": "Slow-moving storm dumped 5–9 in on central Vermont; the Winooski flooded downtown Montpelier, passing major flood stage."
+}

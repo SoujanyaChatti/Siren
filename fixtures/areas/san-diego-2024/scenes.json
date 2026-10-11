@@ -1,0 +1,32 @@
+[
+  {
+    "id": "normal",
+    "label": "1. Before",
+    "time": "2024-01-22T12:30:00Z",
+    "note": "River near 4 ft; rain beginning."
+  },
+  {
+    "id": "rising",
+    "label": "2. Downpour",
+    "time": "2024-01-22T17:30:00Z",
+    "note": "Heaviest rain; NWS Flash Flood Warning at 9:34 AM."
+  },
+  {
+    "id": "warning",
+    "label": "3. River rises",
+    "time": "2024-01-22T20:45:00Z",
+    "note": "Stage about to cross minor flood stage (10 ft). Press play."
+  },
+  {
+    "id": "photo",
+    "label": "4. Photo",
+    "time": "2024-01-22T21:30:00Z",
+    "note": "Photo report at the Fashion Valley Rd river crossing."
+  },
+  {
+    "id": "recede",
+    "label": "5. Recession",
+    "time": "2024-01-23T09:30:00Z",
+    "note": "Second crest overnight, then falling."
+  }
+]

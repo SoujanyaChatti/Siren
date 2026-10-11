@@ -1,0 +1,27 @@
+{
+ "output": {
+  "reference_objects": [
+   {
+    "type": "car tire",
+    "typical_height_in": 26,
+    "waterline_fraction": 0.25,
+    "box": [
+     0.638,
+     0.697,
+     0.677,
+     0.912
+    ]
+   }
+  ],
+  "depth_in": 6.5,
+  "depth_low_in": 4.0,
+  "depth_high_in": 10.0,
+  "confidence": 0.7,
+  "is_road": true,
+  "notes": "Floodwater covers the lower section of vehicle tires along the roadway, reaching roughly 4-8 inches, approaching or slightly touching the lower bumpers of low-clearance vehicles.",
+  "waterline_y": 0.85
+ },
+ "model": "gemini-flash-latest",
+ "path": "gemini",
+ "created": "2026-10-11T16:50:34.804093+00:00"
+}

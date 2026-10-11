@@ -1,0 +1,8 @@
+[
+  {"id": "ana", "name": "Ana", "language": "es", "zone_id": "A", "vehicle": "sedan",
+   "needs": {"commute": "Drives home along Swannanoa River Rd through Biltmore Village", "large_text": false, "prefers_voice": false}},
+  {"id": "david", "name": "David", "language": "en", "zone_id": "B", "vehicle": "pickup",
+   "needs": {"mobility": "His mother lives with him and uses a wheelchair", "large_text": false, "prefers_voice": false}},
+  {"id": "carmen", "name": "Carmen", "language": "es", "zone_id": "C", "vehicle": null,
+   "needs": {"older_adult": true, "large_text": true, "prefers_voice": true}}
+]

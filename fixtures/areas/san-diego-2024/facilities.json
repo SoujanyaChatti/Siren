@@ -1,0 +1,290 @@
+[
+ {
+  "id": "osm-node-358779422",
+  "name": "Academy of our Lady of Peace",
+  "kind": "school",
+  "lat": 32.7650502,
+  "lon": -117.1355881,
+  "source_url": "https://www.openstreetmap.org/node/358779422"
+ },
+ {
+  "id": "osm-node-358779429",
+  "name": "John Adams Elementary School",
+  "kind": "school",
+  "lat": 32.7613889,
+  "lon": -117.1188889,
+  "source_url": "https://www.openstreetmap.org/node/358779429"
+ },
+ {
+  "id": "osm-node-358786018",
+  "name": "Holy Family School",
+  "kind": "school",
+  "lat": 32.7800496,
+  "lon": -117.1692005,
+  "source_url": "https://www.openstreetmap.org/node/358786018"
+ },
+ {
+  "id": "osm-node-358788062",
+  "name": "Longfellow Elementary School",
+  "kind": "school",
+  "lat": 32.7834772,
+  "lon": -117.1889896,
+  "source_url": "https://www.openstreetmap.org/node/358788062"
+ },
+ {
+  "id": "osm-node-358845473",
+  "name": "National University",
+  "kind": "school",
+  "lat": 32.7775501,
+  "lon": -117.1058649,
+  "source_url": "https://www.openstreetmap.org/node/358845473"
+ },
+ {
+  "id": "osm-node-358858099",
+  "name": "Pacific College of Health and Science",
+  "kind": "school",
+  "lat": 32.7794268,
+  "lon": -117.1600342,
+  "source_url": "https://www.openstreetmap.org/node/358858099"
+ },
+ {
+  "id": "osm-node-358858171",
+  "name": "Foundation College of San Diego",
+  "kind": "school",
+  "lat": 32.7613245,
+  "lon": -117.1611694,
+  "source_url": "https://www.openstreetmap.org/node/358858171"
+ },
+ {
+  "id": "osm-node-358858261",
+  "name": "California College - San Diego",
+  "kind": "school",
+  "lat": 32.7710006,
+  "lon": -117.131855,
+  "source_url": "https://www.openstreetmap.org/node/358858261"
+ },
+ {
+  "id": "osm-node-358860386",
+  "name": "Carson Charter School",
+  "kind": "school",
+  "lat": 32.7766846,
+  "lon": -117.1709757,
+  "source_url": "https://www.openstreetmap.org/node/358860386"
+ },
+ {
+  "id": "osm-node-358860963",
+  "name": "School of the Madeleine",
+  "kind": "school",
+  "lat": 32.7793041,
+  "lon": -117.1988076,
+  "source_url": "https://www.openstreetmap.org/node/358860963"
+ },
+ {
+  "id": "osm-node-368168871",
+  "name": "San Diego City Fire Station 23",
+  "kind": "fire_station",
+  "lat": 32.7829649,
+  "lon": -117.1715868,
+  "source_url": "https://www.openstreetmap.org/node/368168871"
+ },
+ {
+  "id": "osm-node-10684141564",
+  "name": "LifeStance Health Mission Valley",
+  "kind": "clinic",
+  "lat": 32.7750905,
+  "lon": -117.1368568,
+  "source_url": "https://www.openstreetmap.org/node/10684141564"
+ },
+ {
+  "id": "osm-node-12091896572",
+  "name": "Reproductive Wellness",
+  "kind": "clinic",
+  "lat": 32.7707108,
+  "lon": -117.1339888,
+  "source_url": "https://www.openstreetmap.org/node/12091896572"
+ },
+ {
+  "id": "osm-node-12296089336",
+  "name": "Audeo School",
+  "kind": "school",
+  "lat": 32.7787867,
+  "lon": -117.120139,
+  "source_url": "https://www.openstreetmap.org/node/12296089336"
+ },
+ {
+  "id": "osm-node-12946467977",
+  "name": "Visiting Angels",
+  "kind": "clinic",
+  "lat": 32.7689407,
+  "lon": -117.136194,
+  "source_url": "https://www.openstreetmap.org/node/12946467977"
+ },
+ {
+  "id": "osm-node-13131929368",
+  "name": "Passport Health San Diego Travel Clinic",
+  "kind": "clinic",
+  "lat": 32.7678275,
+  "lon": -117.137672,
+  "source_url": "https://www.openstreetmap.org/node/13131929368"
+ },
+ {
+  "id": "osm-node-14104470880",
+  "name": "Scripps Clinic Mission Valley",
+  "kind": "clinic",
+  "lat": 32.7791189,
+  "lon": -117.1586156,
+  "source_url": "https://www.openstreetmap.org/node/14104470880"
+ },
+ {
+  "id": "osm-way-31886871",
+  "name": "Boys & Girls Club",
+  "kind": "clinic",
+  "lat": 32.7854035,
+  "lon": -117.1725148,
+  "source_url": "https://www.openstreetmap.org/way/31886871"
+ },
+ {
+  "id": "osm-way-44500634",
+  "name": "UC San Diego Medical Center",
+  "kind": "hospital",
+  "lat": 32.755465,
+  "lon": -117.1655466,
+  "source_url": "https://www.openstreetmap.org/way/44500634"
+ },
+ {
+  "id": "osm-way-102652552",
+  "name": "Carson Elementary School",
+  "kind": "school",
+  "lat": 32.7757873,
+  "lon": -117.1710266,
+  "source_url": "https://www.openstreetmap.org/way/102652552"
+ },
+ {
+  "id": "osm-way-103380325",
+  "name": "Francis W. Parker School",
+  "kind": "school",
+  "lat": 32.7710445,
+  "lon": -117.1767588,
+  "source_url": "https://www.openstreetmap.org/way/103380325"
+ },
+ {
+  "id": "osm-way-103380328",
+  "name": "Twain High School",
+  "kind": "school",
+  "lat": 32.7724141,
+  "lon": -117.1790617,
+  "source_url": "https://www.openstreetmap.org/way/103380328"
+ },
+ {
+  "id": "osm-way-103380689",
+  "name": "Fletcher Elementary School",
+  "kind": "school",
+  "lat": 32.7850824,
+  "lon": -117.1598491,
+  "source_url": "https://www.openstreetmap.org/way/103380689"
+ },
+ {
+  "id": "osm-way-112437923",
+  "name": "Montgomery Middle School STEAM Magnet",
+  "kind": "school",
+  "lat": 32.7877254,
+  "lon": -117.1726683,
+  "source_url": "https://www.openstreetmap.org/way/112437923"
+ },
+ {
+  "id": "osm-way-118974637",
+  "name": "San Diego Fire Sta. #18",
+  "kind": "fire_station",
+  "lat": 32.762742,
+  "lon": -117.122049,
+  "source_url": "https://www.openstreetmap.org/way/118974637"
+ },
+ {
+  "id": "osm-way-130002256",
+  "name": "Wilson Middle School",
+  "kind": "school",
+  "lat": 32.7541853,
+  "lon": -117.1120036,
+  "source_url": "https://www.openstreetmap.org/way/130002256"
+ },
+ {
+  "id": "osm-way-156751236",
+  "name": "Franklin Elementary School",
+  "kind": "school",
+  "lat": 32.757975,
+  "lon": -117.1032184,
+  "source_url": "https://www.openstreetmap.org/way/156751236"
+ },
+ {
+  "id": "osm-way-191166225",
+  "name": "Revere School",
+  "kind": "school",
+  "lat": 32.7845586,
+  "lon": -117.1752801,
+  "source_url": "https://www.openstreetmap.org/way/191166225"
+ },
+ {
+  "id": "osm-way-191346102",
+  "name": "Saint Mary Magdeline School",
+  "kind": "school",
+  "lat": 32.7796605,
+  "lon": -117.1986845,
+  "source_url": "https://www.openstreetmap.org/way/191346102"
+ },
+ {
+  "id": "osm-way-382612540",
+  "name": "Duh Dinh Vo, MD",
+  "kind": "clinic",
+  "lat": 32.7868768,
+  "lon": -117.1713549,
+  "source_url": "https://www.openstreetmap.org/way/382612540"
+ },
+ {
+  "id": "osm-way-382802560",
+  "name": "Faith Community School",
+  "kind": "school",
+  "lat": 32.7862396,
+  "lon": -117.1441481,
+  "source_url": "https://www.openstreetmap.org/way/382802560"
+ },
+ {
+  "id": "osm-way-523155085",
+  "name": "San Diego Fire Rescue Station #45",
+  "kind": "fire_station",
+  "lat": 32.7864977,
+  "lon": -117.124044,
+  "source_url": "https://www.openstreetmap.org/way/523155085"
+ },
+ {
+  "id": "osm-way-570071343",
+  "name": "Kindred Hospital - San Diego",
+  "kind": "hospital",
+  "lat": 32.7561741,
+  "lon": -117.1443991,
+  "source_url": "https://www.openstreetmap.org/way/570071343"
+ },
+ {
+  "id": "osm-way-985286310",
+  "name": "Nipaquay Elementary School",
+  "kind": "school",
+  "lat": 32.7779924,
+  "lon": -117.1493339,
+  "source_url": "https://www.openstreetmap.org/way/985286310"
+ },
+ {
+  "id": "osm-way-1416387273",
+  "name": "Garfield Elementary School",
+  "kind": "school",
+  "lat": 32.7582092,
+  "lon": -117.1345251,
+  "source_url": "https://www.openstreetmap.org/way/1416387273"
+ },
+ {
+  "id": "osm-relation-4635301",
+  "name": "Alice Birney Elementary School",
+  "kind": "school",
+  "lat": 32.7564659,
+  "lon": -117.1475214,
+  "source_url": "https://www.openstreetmap.org/relation/4635301"
+ }
+]

@@ -1,0 +1,37 @@
+{
+ "output": {
+  "reference_objects": [
+   {
+    "type": "car tire",
+    "typical_height_in": 25,
+    "waterline_fraction": 0.24,
+    "box": [
+     0.407,
+     0.388,
+     0.521,
+     0.439
+    ]
+   },
+   {
+    "type": "car tire",
+    "typical_height_in": 29,
+    "waterline_fraction": 0.17,
+    "box": [
+     0.267,
+     0.491,
+     0.342,
+     0.524
+    ]
+   }
+  ],
+  "depth_in": 5.5,
+  "depth_low_in": 3.0,
+  "depth_high_in": 8.0,
+  "confidence": 0.8,
+  "is_road": true,
+  "notes": "Vehicles are driving through standing floodwater on the roadway. Water reaches slightly up the lower tread and sidewall of the tires, around 4 to 7 inches deep."
+ },
+ "model": "gemini-flash-latest",
+ "path": "gemini",
+ "created": "2026-10-11T16:50:57.727041+00:00"
+}

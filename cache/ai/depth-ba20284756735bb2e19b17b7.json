@@ -1,0 +1,38 @@
+{
+ "output": {
+  "reference_objects": [
+   {
+    "type": "car tire",
+    "typical_height_in": 25.0,
+    "waterline_fraction": 0.95,
+    "box": [
+     0.178,
+     0.445,
+     0.222,
+     0.52
+    ]
+   },
+   {
+    "type": "sedan",
+    "typical_height_in": 57.0,
+    "waterline_fraction": 0.4,
+    "box": [
+     0.278,
+     0.273,
+     0.515,
+     0.432
+    ]
+   }
+  ],
+  "depth_in": 24.0,
+  "depth_low_in": 18.0,
+  "depth_high_in": 28.0,
+  "confidence": 0.85,
+  "is_road": true,
+  "notes": "Floodwater in the parking area reaches up to the lower edge of the headlights and front bumper of the black sedan, fully submerging the tires to an estimated depth of 22 to 26 inches.",
+  "waterline_y": 0.51
+ },
+ "model": "gemini-flash-latest",
+ "path": "gemini",
+ "created": "2026-10-11T16:51:24.813236+00:00"
+}

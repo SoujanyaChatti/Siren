@@ -1,0 +1,32 @@
+[
+  {
+    "id": "normal",
+    "label": "1. Normal",
+    "time": "2024-07-08T07:00:00Z",
+    "note": "Brays Bayou steady overnight; light rain."
+  },
+  {
+    "id": "rising",
+    "label": "2. Conditions change",
+    "time": "2024-07-08T09:45:00Z",
+    "note": "Beryl's rain bands arrive; both gauges rising more than 1 ft in 30 min (Watch). The NWS Flash Flood Warning follows at 4:54 AM."
+  },
+  {
+    "id": "warning",
+    "label": "3. SIREN speaks",
+    "time": "2024-07-08T14:00:00Z",
+    "note": "Main St gauge just under minor flood stage (41 ft). Press play: it crosses at 9:15 AM and Zone B goes to Warning."
+  },
+  {
+    "id": "photo",
+    "label": "4. Photo",
+    "time": "2024-07-08T14:30:00Z",
+    "note": "Main St gauge over minor flood stage; photo report at S Rice Ave."
+  },
+  {
+    "id": "recede",
+    "label": "5. Recession",
+    "time": "2024-07-08T18:30:00Z",
+    "note": "Water falls; hysteresis holds alerts until clearly below thresholds."
+  }
+]

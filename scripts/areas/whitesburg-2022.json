@@ -1,0 +1,12 @@
+{
+  "id": "whitesburg-2022",
+  "fetch_start": "2022-07-28T00:00:00Z",
+  "fetch_end": "2022-07-29T00:00:00Z",
+  "wfo": "JKL",
+  "bbox": [37.10, -82.86, 37.14, -82.79],
+  "gauges": [
+    {"station_id": "WHTK2", "usgs_id": "03277300", "name": "North Fork Kentucky River at Whitesburg", "short_en": "North Fork Kentucky River at Whitesburg", "short_es": "North Fork Kentucky River en Whitesburg"}
+  ],
+  "rain": [{"station_id": "JKL", "network": "KY_ASOS", "name": "Jackson Julian Carroll Airport (NWS ASOS)"}],
+  "route": null
+}

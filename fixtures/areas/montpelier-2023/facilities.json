@@ -1,0 +1,154 @@
+[
+ {
+  "id": "osm-node-356553946",
+  "name": "Number 9 School",
+  "kind": "school",
+  "lat": 44.2472813,
+  "lon": -72.659279,
+  "source_url": "https://www.openstreetmap.org/node/356553946"
+ },
+ {
+  "id": "osm-node-356554738",
+  "name": "Valley School",
+  "kind": "school",
+  "lat": 44.2270042,
+  "lon": -72.6212214,
+  "source_url": "https://www.openstreetmap.org/node/356554738"
+ },
+ {
+  "id": "osm-node-356554789",
+  "name": "West Berlin School",
+  "kind": "school",
+  "lat": 44.202838,
+  "lon": -72.6378881,
+  "source_url": "https://www.openstreetmap.org/node/356554789"
+ },
+ {
+  "id": "osm-node-356558496",
+  "name": "Washington Central Supervisory Union",
+  "kind": "school",
+  "lat": 44.2057227,
+  "lon": -72.5604911,
+  "source_url": "https://www.openstreetmap.org/node/356558496"
+ },
+ {
+  "id": "osm-node-366666334",
+  "name": "Berlin Volunteer Fire Department - Riverton Station",
+  "kind": "fire_station",
+  "lat": 44.1998904,
+  "lon": -72.6344975,
+  "source_url": "https://www.openstreetmap.org/node/366666334"
+ },
+ {
+  "id": "osm-node-366666875",
+  "name": "Central Vermont Medical Center",
+  "kind": "hospital",
+  "lat": 44.2205411,
+  "lon": -72.5608203,
+  "source_url": "https://www.openstreetmap.org/node/366666875"
+ },
+ {
+  "id": "osm-node-4993579959",
+  "name": "Woodridge Rehabilitation and Nursing",
+  "kind": "nursing_home",
+  "lat": 44.2230557,
+  "lon": -72.5601625,
+  "source_url": "https://www.openstreetmap.org/node/4993579959"
+ },
+ {
+  "id": "osm-node-10735009676",
+  "name": "Pacem School",
+  "kind": "school",
+  "lat": 44.2546057,
+  "lon": -72.5674302,
+  "source_url": "https://www.openstreetmap.org/node/10735009676"
+ },
+ {
+  "id": "osm-node-13461479027",
+  "name": "Just Basics Food Pantry",
+  "kind": "clinic",
+  "lat": 44.2563822,
+  "lon": -72.5741281,
+  "source_url": "https://www.openstreetmap.org/node/13461479027"
+ },
+ {
+  "id": "osm-way-42757744",
+  "name": "Montpelier High School",
+  "kind": "school",
+  "lat": 44.2601894,
+  "lon": -72.5881737,
+  "source_url": "https://www.openstreetmap.org/way/42757744"
+ },
+ {
+  "id": "osm-way-510315649",
+  "name": "Union Elementary School",
+  "kind": "school",
+  "lat": 44.2594514,
+  "lon": -72.571054,
+  "source_url": "https://www.openstreetmap.org/way/510315649"
+ },
+ {
+  "id": "osm-way-558911673",
+  "name": "Montpelier Fire Station",
+  "kind": "fire_station",
+  "lat": 44.2594481,
+  "lon": -72.5753701,
+  "source_url": "https://www.openstreetmap.org/way/558911673"
+ },
+ {
+  "id": "osm-way-584926208",
+  "name": "Vermont Psychiatric Care Hospital",
+  "kind": "hospital",
+  "lat": 44.2229062,
+  "lon": -72.5649494,
+  "source_url": "https://www.openstreetmap.org/way/584926208"
+ },
+ {
+  "id": "osm-way-620929604",
+  "name": "Main Street Middle School",
+  "kind": "school",
+  "lat": 44.2633644,
+  "lon": -72.5694952,
+  "source_url": "https://www.openstreetmap.org/way/620929604"
+ },
+ {
+  "id": "osm-way-693564713",
+  "name": "The Gary Residence",
+  "kind": "nursing_home",
+  "lat": 44.2621106,
+  "lon": -72.5719045,
+  "source_url": "https://www.openstreetmap.org/way/693564713"
+ },
+ {
+  "id": "osm-way-830378843",
+  "name": "ClearChoiceMD Urgent Care",
+  "kind": "clinic",
+  "lat": 44.2215815,
+  "lon": -72.5453079,
+  "source_url": "https://www.openstreetmap.org/way/830378843"
+ },
+ {
+  "id": "osm-way-866795156",
+  "name": "Berlin Volunteer Fire Department",
+  "kind": "fire_station",
+  "lat": 44.2144615,
+  "lon": -72.5735382,
+  "source_url": "https://www.openstreetmap.org/way/866795156"
+ },
+ {
+  "id": "osm-way-1210453073",
+  "name": "Family Center of Washington County",
+  "kind": "school",
+  "lat": 44.238955,
+  "lon": -72.5602568,
+  "source_url": "https://www.openstreetmap.org/way/1210453073"
+ },
+ {
+  "id": "osm-way-1264214038",
+  "name": "Good Sam at Twin City",
+  "kind": "shelter",
+  "lat": 44.2304145,
+  "lon": -72.5539974,
+  "source_url": "https://www.openstreetmap.org/way/1264214038"
+ }
+]

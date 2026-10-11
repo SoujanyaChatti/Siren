@@ -1,0 +1,38 @@
+{
+ "output": {
+  "reference_objects": [
+   {
+    "type": "car tire",
+    "typical_height_in": 24.0,
+    "waterline_fraction": 0.25,
+    "box": [
+     0.333,
+     0.362,
+     0.382,
+     0.432
+    ]
+   },
+   {
+    "type": "car tire",
+    "typical_height_in": 24.0,
+    "waterline_fraction": 0.2,
+    "box": [
+     0.194,
+     0.324,
+     0.233,
+     0.378
+    ]
+   }
+  ],
+  "depth_in": 6.0,
+  "depth_low_in": 4.0,
+  "depth_high_in": 9.0,
+  "confidence": 0.8,
+  "is_road": true,
+  "notes": "A sedan drives through street flooding. The water covers the lower edge of the tire and reaches near the rim/hubcap level (approximately 5-7 inches), with curb tops barely visible above the water level on the right sidewalk.",
+  "waterline_y": 0.415
+ },
+ "model": "gemini-flash-latest",
+ "path": "gemini",
+ "created": "2026-10-11T16:50:18.058919+00:00"
+}

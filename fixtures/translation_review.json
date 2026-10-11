@@ -1,0 +1,7 @@
+{
+  "es": {
+    "reviewed": false,
+    "reviewer": null,
+    "note": "Fixed Spanish phrases in backend/app/messages.py and guidance.md need review by a fluent Spanish speaker before judging. Set reviewed=true and reviewer=<name> after review."
+  }
+}

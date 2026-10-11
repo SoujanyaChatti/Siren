@@ -1,0 +1,71 @@
+# SIREN rule definitions. The rules engine decides every alert; AI only explains.
+# Thresholds were fixed BEFORE computing the lead-time comparison (see README) and must not be
+# tuned to win it. Stage thresholds come from official NOAA NWPS flood categories per gauge
+# (fixtures/stations.json -> flood_stages_ft, cited there).
+ruleset_version: "2026.10.11"
+severity_order: [Normal, Watch, Warning, Emergency]
+evaluation_interval_minutes: 15
+# While a zone stays at the same severity, re-issue an updated alert when the gauge has risen this much
+# above the stage quoted in the last alert, so residents never act on stale numbers.
+update_alert_on_rise_ft: 2.0
+hysteresis:
+  clear_after_false_evaluations: 2     # condition must be false this many evaluations in a row
+  stage_clear_margin_ft: 0.3           # and stage must be this far below the threshold
+rules:
+  - id: STAGE_ACTION
+    version: "1.0.0"
+    description: "Latest stage at the zone's gauge is at or above the official NOAA action stage."
+    description_es: "El nivel más reciente del medidor de la zona está en o sobre el nivel de acción oficial de NOAA."
+    inputs: [gauge.stage_ft.latest]
+    threshold: {flood_category: action}
+    severity: Watch
+  - id: STAGE_MINOR
+    version: "1.0.0"
+    description: "Latest stage is at or above the official NOAA minor flood stage."
+    description_es: "El nivel más reciente está en o sobre el nivel oficial de inundación menor de NOAA."
+    inputs: [gauge.stage_ft.latest]
+    threshold: {flood_category: minor}
+    severity: Warning
+  - id: STAGE_MODERATE
+    version: "1.0.0"
+    description: "Latest stage is at or above the official NOAA moderate flood stage."
+    description_es: "El nivel más reciente está en o sobre el nivel oficial de inundación moderada de NOAA."
+    inputs: [gauge.stage_ft.latest]
+    threshold: {flood_category: moderate}
+    severity: Emergency
+  - id: RISE_RATE
+    version: "1.0.0"
+    description: "Stage rose at least 1.0 ft in the last 30 minutes. Raises severity one level, up to Warning."
+    description_es: "El nivel subió al menos 1.0 pie en los últimos 30 minutos. Sube la gravedad un nivel, hasta Advertencia."
+    inputs: [gauge.stage_ft.latest, gauge.stage_ft.30min_ago]
+    threshold: {rise_ft: 1.0, window_minutes: 30, lookup_tolerance_minutes: 10}
+    effect: {raise_levels: 1, max: Warning}
+  - id: RAIN_1H
+    version: "1.0.0"
+    description: "Rainfall of at least 2.0 in during the last hour at the zone's nearest rain gauge."
+    description_es: "Al menos 2.0 pulgadas de lluvia en la última hora en el pluviómetro más cercano."
+    inputs: [rain.rain_in.sum_60min]
+    threshold: {rain_in: 2.0, window_minutes: 60}
+    severity: Watch
+  - id: NWS_FFW
+    version: "1.0.0"
+    description: "An active NWS Flash Flood Warning polygon contains the zone (official)."
+    description_es: "Un polígono activo de Advertencia de Inundación Repentina del NWS contiene la zona (oficial)."
+    inputs: [nws.active_ffw]
+    threshold: {vtec: FF.W}
+    severity: Warning
+    official: true
+  - id: PHOTO_DEPTH_ROAD
+    version: "1.0.0"
+    description: "A verified photo report on a road in the zone shows a depth range high of 12 in or more: do not drive."
+    description_es: "Un reporte fotográfico verificado en una calle de la zona muestra 12 pulgadas o más: no maneje."
+    inputs: [photo.depth_high_in]
+    threshold: {depth_high_in: 12, max_age_minutes: 180}
+    severity: Emergency
+  - id: STALE_DATA
+    version: "1.0.0"
+    description: "No reading from the zone's gauge for more than 30 minutes. No severity change; flags missing data, and never reports Normal."
+    description_es: "Sin lecturas del medidor de la zona por más de 30 minutos. No cambia la gravedad; marca datos faltantes y nunca reporta Normal."
+    inputs: [gauge.stage_ft.latest]
+    threshold: {max_age_minutes: 30, live_max_age_minutes: 90}
+    # live_max_age_minutes applies to live mode: real gauge telemetry usually arrives 30-60 min after the reading.

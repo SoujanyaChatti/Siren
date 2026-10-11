@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "A", "name": "Zone A — Gessner / Westbury", "name_es": "Zona A — Gessner / Westbury",
+        "gauge": "GSST2", "rain": "SGR",
+        "roads": []
+      },
+      "geometry": {"type": "Polygon", "coordinates": [[[-95.548, 29.661], [-95.523, 29.660], [-95.499, 29.664], [-95.497, 29.690], [-95.522, 29.689], [-95.546, 29.686], [-95.548, 29.661]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "B", "name": "Zone B — Meyerland", "name_es": "Zona B — Meyerland",
+        "gauge": "HBMT2", "rain": "HOU",
+        "roads": [
+          {"road_id": "B-RICE-BRAESWOOD", "name": "S Rice Ave / Braeswood Blvd", "lat": 29.6796, "lon": -95.4677,
+           "kind": "low point near Brays Bayou (demo location)"}
+        ]
+      },
+      "geometry": {"type": "Polygon", "coordinates": [[[-95.499, 29.664], [-95.472, 29.667], [-95.447, 29.672], [-95.446, 29.698], [-95.472, 29.695], [-95.497, 29.690], [-95.499, 29.664]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "C", "name": "Zone C — Braeswood Place / Medical Center", "name_es": "Zona C — Braeswood Place / Centro Médico",
+        "gauge": "HBMT2", "rain": "HOU",
+        "roads": []
+      },
+      "geometry": {"type": "Polygon", "coordinates": [[[-95.447, 29.672], [-95.423, 29.679], [-95.398, 29.688], [-95.398, 29.712], [-95.423, 29.707], [-95.446, 29.698], [-95.447, 29.672]]]}
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+**/node_modules
+**/.venv
+frontend/dist
+.env
+.git
+backend/tests/_cache
+cache/photos

@@ -1,0 +1,28 @@
+# Backend on Render (free web service, Docker). Sleeps when idle: open /api/health a few minutes before judging.
+services:
+  - type: web
+    name: siren-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: DEMO_OFFLINE          # replay AI + voice served from the committed cache/
+        value: "true"
+      - key: ALLOW_LIVE_DATA       # /api/live/* uses free NOAA/USGS/NWS feeds
+        value: "true"
+      - key: CORS_ORIGINS          # set to your Vercel URL, e.g. https://siren.vercel.app
+        value: "*"
+      - key: SIREN_USER_AGENT
+        value: "SIREN-hackathon/0.1 (flood alert demo; https://github.com/SoujanyaChatti/Siren)"
+      - key: ELEVENLABS_VOICE_EN
+        value: EXAVITQu4vr4xnSDxMaL
+      - key: ELEVENLABS_VOICE_ES
+        value: EXAVITQu4vr4xnSDxMaL
+      - key: ELEVENLABS_CHAR_BUDGET
+        value: "3000"
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: ELEVENLABS_API_KEY
+        sync: false

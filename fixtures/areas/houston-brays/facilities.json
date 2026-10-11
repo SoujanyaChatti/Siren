@@ -1,0 +1,1226 @@
+[
+ {
+  "id": "osm-node-356702796",
+  "name": "Corpus Christi School",
+  "kind": "school",
+  "lat": 29.6746755,
+  "lon": -95.4413296,
+  "source_url": "https://www.openstreetmap.org/node/356702796"
+ },
+ {
+  "id": "osm-node-356718805",
+  "name": "Pilgrim School",
+  "kind": "school",
+  "lat": 29.6873918,
+  "lon": -95.4753063,
+  "source_url": "https://www.openstreetmap.org/node/356718805"
+ },
+ {
+  "id": "osm-node-356802620",
+  "name": "Girls and Boys Prep Academy",
+  "kind": "school",
+  "lat": 29.6560201,
+  "lon": -95.5251977,
+  "source_url": "https://www.openstreetmap.org/node/356802620"
+ },
+ {
+  "id": "osm-node-356805153",
+  "name": "Ser - Ninos Charter Elementary School",
+  "kind": "school",
+  "lat": 29.7091191,
+  "lon": -95.4807751,
+  "source_url": "https://www.openstreetmap.org/node/356805153"
+ },
+ {
+  "id": "osm-node-356815851",
+  "name": "Cornerstone Hospital Houston \u2013 Bellaire",
+  "kind": "hospital",
+  "lat": 29.70801,
+  "lon": -95.47327,
+  "source_url": "https://www.openstreetmap.org/node/356815851"
+ },
+ {
+  "id": "osm-node-356865237",
+  "name": "Gramercy Outpatient Surgery Center",
+  "kind": "clinic",
+  "lat": 29.7039432,
+  "lon": -95.4214091,
+  "source_url": "https://www.openstreetmap.org/node/356865237"
+ },
+ {
+  "id": "osm-node-368160634",
+  "name": "City of Southside Place Fire Department",
+  "kind": "fire_station",
+  "lat": 29.7146581,
+  "lon": -95.4335888,
+  "source_url": "https://www.openstreetmap.org/node/368160634"
+ },
+ {
+  "id": "osm-node-368161110",
+  "name": "West University Place Fire Department",
+  "kind": "fire_station",
+  "lat": 29.7149564,
+  "lon": -95.4380504,
+  "source_url": "https://www.openstreetmap.org/node/368161110"
+ },
+ {
+  "id": "osm-node-1975596439",
+  "name": "Texas Heart Institute - Denton A. Cooley Building",
+  "kind": "hospital",
+  "lat": 29.7079305,
+  "lon": -95.399419,
+  "source_url": "https://www.openstreetmap.org/node/1975596439"
+ },
+ {
+  "id": "osm-node-2352145818",
+  "name": "Kelsey-Seybold Clinic",
+  "kind": "clinic",
+  "lat": 29.688159,
+  "lon": -95.460684,
+  "source_url": "https://www.openstreetmap.org/node/2352145818"
+ },
+ {
+  "id": "osm-node-2696631229",
+  "name": "Planned Parenthood",
+  "kind": "clinic",
+  "lat": 29.706514,
+  "lon": -95.483132,
+  "source_url": "https://www.openstreetmap.org/node/2696631229"
+ },
+ {
+  "id": "osm-node-2802443617",
+  "name": "The Shlenker School",
+  "kind": "school",
+  "lat": 29.6774948,
+  "lon": -95.4885031,
+  "source_url": "https://www.openstreetmap.org/node/2802443617"
+ },
+ {
+  "id": "osm-node-2804340504",
+  "name": "Keystone Surgery Center",
+  "kind": "clinic",
+  "lat": 29.676144,
+  "lon": -95.426869,
+  "source_url": "https://www.openstreetmap.org/node/2804340504"
+ },
+ {
+  "id": "osm-node-5464823176",
+  "name": "Baylor Saint Luke\u2019s Emergency Center\u2013Holcombe",
+  "kind": "clinic",
+  "lat": 29.7052849,
+  "lon": -95.4206693,
+  "source_url": "https://www.openstreetmap.org/node/5464823176"
+ },
+ {
+  "id": "osm-node-5604621803",
+  "name": "UnIted Christian School",
+  "kind": "school",
+  "lat": 29.6786529,
+  "lon": -95.4185396,
+  "source_url": "https://www.openstreetmap.org/node/5604621803"
+ },
+ {
+  "id": "osm-node-6503285221",
+  "name": "Grace Episcopal Church School & Office Entrance",
+  "kind": "school",
+  "lat": 29.673784,
+  "lon": -95.4440319,
+  "source_url": "https://www.openstreetmap.org/node/6503285221"
+ },
+ {
+  "id": "osm-node-8220487126",
+  "name": "Bellaire Allergy & Asthma",
+  "kind": "clinic",
+  "lat": 29.7064934,
+  "lon": -95.4604629,
+  "source_url": "https://www.openstreetmap.org/node/8220487126"
+ },
+ {
+  "id": "osm-node-9072419893",
+  "name": "Concentra Urgent Care",
+  "kind": "clinic",
+  "lat": 29.6804469,
+  "lon": -95.3991486,
+  "source_url": "https://www.openstreetmap.org/node/9072419893"
+ },
+ {
+  "id": "osm-node-10038226599",
+  "name": "Bissonnet Medical Clinic",
+  "kind": "clinic",
+  "lat": 29.6965832,
+  "lon": -95.488106,
+  "source_url": "https://www.openstreetmap.org/node/10038226599"
+ },
+ {
+  "id": "osm-node-10917045362",
+  "name": "First Surgical Hospital",
+  "kind": "hospital",
+  "lat": 29.7099774,
+  "lon": -95.4626713,
+  "source_url": "https://www.openstreetmap.org/node/10917045362"
+ },
+ {
+  "id": "osm-node-10917051808",
+  "name": "West Chase Houston Hospital",
+  "kind": "hospital",
+  "lat": 29.7114513,
+  "lon": -95.5561649,
+  "source_url": "https://www.openstreetmap.org/node/10917051808"
+ },
+ {
+  "id": "osm-node-12539504992",
+  "name": "Clinica San Rafael",
+  "kind": "clinic",
+  "lat": 29.705703,
+  "lon": -95.5384346,
+  "source_url": "https://www.openstreetmap.org/node/12539504992"
+ },
+ {
+  "id": "osm-node-12539522507",
+  "name": "Houston Medical Clinic",
+  "kind": "clinic",
+  "lat": 29.7042642,
+  "lon": -95.5527581,
+  "source_url": "https://www.openstreetmap.org/node/12539522507"
+ },
+ {
+  "id": "osm-node-12540809509",
+  "name": "Golden Care Clinic",
+  "kind": "clinic",
+  "lat": 29.7066295,
+  "lon": -95.554912,
+  "source_url": "https://www.openstreetmap.org/node/12540809509"
+ },
+ {
+  "id": "osm-node-12542998504",
+  "name": "DaVita Dialysis",
+  "kind": "clinic",
+  "lat": 29.7057511,
+  "lon": -95.5340994,
+  "source_url": "https://www.openstreetmap.org/node/12542998504"
+ },
+ {
+  "id": "osm-node-12542998512",
+  "name": "Walker Family Practice",
+  "kind": "clinic",
+  "lat": 29.7057496,
+  "lon": -95.5339564,
+  "source_url": "https://www.openstreetmap.org/node/12542998512"
+ },
+ {
+  "id": "osm-node-12543011008",
+  "name": "JY Family Urgent Care",
+  "kind": "clinic",
+  "lat": 29.7066093,
+  "lon": -95.556261,
+  "source_url": "https://www.openstreetmap.org/node/12543011008"
+ },
+ {
+  "id": "osm-node-13067807575",
+  "name": "Seven Acres",
+  "kind": "nursing_home",
+  "lat": 29.6784731,
+  "lon": -95.501112,
+  "source_url": "https://www.openstreetmap.org/node/13067807575"
+ },
+ {
+  "id": "osm-node-13067823632",
+  "name": "The Medallion",
+  "kind": "nursing_home",
+  "lat": 29.6780631,
+  "lon": -95.5022289,
+  "source_url": "https://www.openstreetmap.org/node/13067823632"
+ },
+ {
+  "id": "osm-node-13115365411",
+  "name": "Teen Health Clinic",
+  "kind": "clinic",
+  "lat": 29.6952546,
+  "lon": -95.496269,
+  "source_url": "https://www.openstreetmap.org/node/13115365411"
+ },
+ {
+  "id": "osm-node-13165119335",
+  "name": "Advanced STD Testing & Treatment Clinic",
+  "kind": "clinic",
+  "lat": 29.7166333,
+  "lon": -95.4937774,
+  "source_url": "https://www.openstreetmap.org/node/13165119335"
+ },
+ {
+  "id": "osm-node-13699189677",
+  "name": "St. Joseph Cancer Center",
+  "kind": "clinic",
+  "lat": 29.6861283,
+  "lon": -95.4217687,
+  "source_url": "https://www.openstreetmap.org/node/13699189677"
+ },
+ {
+  "id": "osm-node-14230566130",
+  "name": "Visiting Angels",
+  "kind": "clinic",
+  "lat": 29.6692012,
+  "lon": -95.5081533,
+  "source_url": "https://www.openstreetmap.org/node/14230566130"
+ },
+ {
+  "id": "osm-way-43035587",
+  "name": "Ben Taub General Hospital",
+  "kind": "hospital",
+  "lat": 29.7105962,
+  "lon": -95.3934982,
+  "source_url": "https://www.openstreetmap.org/way/43035587"
+ },
+ {
+  "id": "osm-way-51812681",
+  "name": "Children's Memorial Hermann Hospital",
+  "kind": "hospital",
+  "lat": 29.7138432,
+  "lon": -95.3954909,
+  "source_url": "https://www.openstreetmap.org/way/51812681"
+ },
+ {
+  "id": "osm-way-51815686",
+  "name": "University of Texas MD Anderson Cancer Center",
+  "kind": "hospital",
+  "lat": 29.7076733,
+  "lon": -95.3974081,
+  "source_url": "https://www.openstreetmap.org/way/51815686"
+ },
+ {
+  "id": "osm-way-51851720",
+  "name": "Spencer R. Berthelsen, M.D., Main Campus",
+  "kind": "clinic",
+  "lat": 29.7052996,
+  "lon": -95.421612,
+  "source_url": "https://www.openstreetmap.org/way/51851720"
+ },
+ {
+  "id": "osm-way-51899722",
+  "name": "Rice School",
+  "kind": "school",
+  "lat": 29.6979578,
+  "lon": -95.4205583,
+  "source_url": "https://www.openstreetmap.org/way/51899722"
+ },
+ {
+  "id": "osm-way-129131939",
+  "name": "The Woman's Hospital of Texas",
+  "kind": "hospital",
+  "lat": 29.6932971,
+  "lon": -95.4026925,
+  "source_url": "https://www.openstreetmap.org/way/129131939"
+ },
+ {
+  "id": "osm-way-129728174",
+  "name": "Kelsey-Seybold Clinic - West University",
+  "kind": "clinic",
+  "lat": 29.7047431,
+  "lon": -95.4249296,
+  "source_url": "https://www.openstreetmap.org/way/129728174"
+ },
+ {
+  "id": "osm-way-129809384",
+  "name": "Longfellow Elementary School",
+  "kind": "school",
+  "lat": 29.6867755,
+  "lon": -95.4323041,
+  "source_url": "https://www.openstreetmap.org/way/129809384"
+ },
+ {
+  "id": "osm-way-129864714",
+  "name": "Horn Elementary School",
+  "kind": "school",
+  "lat": 29.6940463,
+  "lon": -95.4542574,
+  "source_url": "https://www.openstreetmap.org/way/129864714"
+ },
+ {
+  "id": "osm-way-131698072",
+  "name": "Neff Early Learning Center",
+  "kind": "school",
+  "lat": 29.6975381,
+  "lon": -95.5291607,
+  "source_url": "https://www.openstreetmap.org/way/131698072"
+ },
+ {
+  "id": "osm-way-131698074",
+  "name": "Neff Elementary School",
+  "kind": "school",
+  "lat": 29.7003331,
+  "lon": -95.5316327,
+  "source_url": "https://www.openstreetmap.org/way/131698074"
+ },
+ {
+  "id": "osm-way-144441162",
+  "name": "Sutton Elementary School",
+  "kind": "school",
+  "lat": 29.6974987,
+  "lon": -95.5022665,
+  "source_url": "https://www.openstreetmap.org/way/144441162"
+ },
+ {
+  "id": "osm-way-144450538",
+  "name": "Long Academy",
+  "kind": "school",
+  "lat": 29.7041944,
+  "lon": -95.4991881,
+  "source_url": "https://www.openstreetmap.org/way/144450538"
+ },
+ {
+  "id": "osm-way-144450549",
+  "name": "Cunningham Elementary School",
+  "kind": "school",
+  "lat": 29.7175548,
+  "lon": -95.4691825,
+  "source_url": "https://www.openstreetmap.org/way/144450549"
+ },
+ {
+  "id": "osm-way-144461704",
+  "name": "Sugar Grove Academy Middle School",
+  "kind": "school",
+  "lat": 29.6875701,
+  "lon": -95.512997,
+  "source_url": "https://www.openstreetmap.org/way/144461704"
+ },
+ {
+  "id": "osm-way-144461723",
+  "name": "Bonham Elementary School",
+  "kind": "school",
+  "lat": 29.6876112,
+  "lon": -95.5195463,
+  "source_url": "https://www.openstreetmap.org/way/144461723"
+ },
+ {
+  "id": "osm-way-144908347",
+  "name": "Herod Elementary School",
+  "kind": "school",
+  "lat": 29.6834812,
+  "lon": -95.4878951,
+  "source_url": "https://www.openstreetmap.org/way/144908347"
+ },
+ {
+  "id": "osm-way-144915645",
+  "name": "Elrod Elementary School",
+  "kind": "school",
+  "lat": 29.6717853,
+  "lon": -95.5016258,
+  "source_url": "https://www.openstreetmap.org/way/144915645"
+ },
+ {
+  "id": "osm-way-144915646",
+  "name": "Fondren Middle School",
+  "kind": "school",
+  "lat": 29.6746156,
+  "lon": -95.5042244,
+  "source_url": "https://www.openstreetmap.org/way/144915646"
+ },
+ {
+  "id": "osm-way-144919792",
+  "name": "Halpin Early Childhood Center",
+  "kind": "school",
+  "lat": 29.6618169,
+  "lon": -95.5026817,
+  "source_url": "https://www.openstreetmap.org/way/144919792"
+ },
+ {
+  "id": "osm-way-145039102",
+  "name": "Varnett Public School",
+  "kind": "school",
+  "lat": 29.6564457,
+  "lon": -95.4666656,
+  "source_url": "https://www.openstreetmap.org/way/145039102"
+ },
+ {
+  "id": "osm-way-145045299",
+  "name": "Milne Elementary",
+  "kind": "school",
+  "lat": 29.6611789,
+  "lon": -95.515552,
+  "source_url": "https://www.openstreetmap.org/way/145045299"
+ },
+ {
+  "id": "osm-way-150257576",
+  "name": "Pershing Middle School",
+  "kind": "school",
+  "lat": 29.7024135,
+  "lon": -95.4386564,
+  "source_url": "https://www.openstreetmap.org/way/150257576"
+ },
+ {
+  "id": "osm-way-150257594",
+  "name": "Mark Twain Elementary School",
+  "kind": "school",
+  "lat": 29.6985873,
+  "lon": -95.4379173,
+  "source_url": "https://www.openstreetmap.org/way/150257594"
+ },
+ {
+  "id": "osm-way-186824819",
+  "name": "Jamail Specialty Care Center",
+  "kind": "clinic",
+  "lat": 29.7010732,
+  "lon": -95.3926925,
+  "source_url": "https://www.openstreetmap.org/way/186824819"
+ },
+ {
+  "id": "osm-way-186824821",
+  "name": "MD Anderson Proton Therapy Center",
+  "kind": "clinic",
+  "lat": 29.6954003,
+  "lon": -95.3989438,
+  "source_url": "https://www.openstreetmap.org/way/186824821"
+ },
+ {
+  "id": "osm-way-197558957",
+  "name": "Strake Jesuit College Preparatory",
+  "kind": "school",
+  "lat": 29.7070626,
+  "lon": -95.5400928,
+  "source_url": "https://www.openstreetmap.org/way/197558957"
+ },
+ {
+  "id": "osm-way-197558958",
+  "name": "Saint Agnes Academy",
+  "kind": "school",
+  "lat": 29.706959,
+  "lon": -95.5426232,
+  "source_url": "https://www.openstreetmap.org/way/197558958"
+ },
+ {
+  "id": "osm-way-207815845",
+  "name": "Kindred Hospital Houston Medical Center",
+  "kind": "hospital",
+  "lat": 29.7129629,
+  "lon": -95.3990926,
+  "source_url": "https://www.openstreetmap.org/way/207815845"
+ },
+ {
+  "id": "osm-way-218893144",
+  "name": "Baylor College of Medicine Medical Center",
+  "kind": "clinic",
+  "lat": 29.6986027,
+  "lon": -95.3944472,
+  "source_url": "https://www.openstreetmap.org/way/218893144"
+ },
+ {
+  "id": "osm-way-220768128",
+  "name": "Vallbona Health Center",
+  "kind": "clinic",
+  "lat": 29.7076495,
+  "lon": -95.5001941,
+  "source_url": "https://www.openstreetmap.org/way/220768128"
+ },
+ {
+  "id": "osm-way-251660022",
+  "name": "Bellaire Fire Department",
+  "kind": "fire_station",
+  "lat": 29.7017527,
+  "lon": -95.4683908,
+  "source_url": "https://www.openstreetmap.org/way/251660022"
+ },
+ {
+  "id": "osm-way-260306350",
+  "name": "Nurture Pediatrics",
+  "kind": "clinic",
+  "lat": 29.7040466,
+  "lon": -95.4681892,
+  "source_url": "https://www.openstreetmap.org/way/260306350"
+ },
+ {
+  "id": "osm-way-297179279",
+  "name": "McNamara Elementary School",
+  "kind": "school",
+  "lat": 29.6844022,
+  "lon": -95.5044904,
+  "source_url": "https://www.openstreetmap.org/way/297179279"
+ },
+ {
+  "id": "osm-way-311355941",
+  "name": "West University Elementary School",
+  "kind": "school",
+  "lat": 29.7157426,
+  "lon": -95.4349898,
+  "source_url": "https://www.openstreetmap.org/way/311355941"
+ },
+ {
+  "id": "osm-way-317222090",
+  "name": "Houston Fire Department Station 68",
+  "kind": "fire_station",
+  "lat": 29.6770174,
+  "lon": -95.5287463,
+  "source_url": "https://www.openstreetmap.org/way/317222090"
+ },
+ {
+  "id": "osm-way-367718376",
+  "name": "Meyerland Performing and Visual Arts Middle School",
+  "kind": "school",
+  "lat": 29.6687518,
+  "lon": -95.4747473,
+  "source_url": "https://www.openstreetmap.org/way/367718376"
+ },
+ {
+  "id": "osm-way-378815480",
+  "name": "Lovett Elementary School",
+  "kind": "school",
+  "lat": 29.6830222,
+  "lon": -95.4690735,
+  "source_url": "https://www.openstreetmap.org/way/378815480"
+ },
+ {
+  "id": "osm-way-389891631",
+  "name": "Houston Fire Department Station 37",
+  "kind": "fire_station",
+  "lat": 29.7017367,
+  "lon": -95.4406655,
+  "source_url": "https://www.openstreetmap.org/way/389891631"
+ },
+ {
+  "id": "osm-way-394682342",
+  "name": "Shearn Elementary School",
+  "kind": "school",
+  "lat": 29.6774987,
+  "lon": -95.4408337,
+  "source_url": "https://www.openstreetmap.org/way/394682342"
+ },
+ {
+  "id": "osm-way-396267256",
+  "name": "Bellaire High School",
+  "kind": "school",
+  "lat": 29.6921206,
+  "lon": -95.469859,
+  "source_url": "https://www.openstreetmap.org/way/396267256"
+ },
+ {
+  "id": "osm-way-396267433",
+  "name": "Bellaire High School Baseball and Softball Fields",
+  "kind": "school",
+  "lat": 29.7129736,
+  "lon": -95.4566248,
+  "source_url": "https://www.openstreetmap.org/way/396267433"
+ },
+ {
+  "id": "osm-way-396268357",
+  "name": "Pin Oak Middle School",
+  "kind": "school",
+  "lat": 29.7193744,
+  "lon": -95.4576991,
+  "source_url": "https://www.openstreetmap.org/way/396268357"
+ },
+ {
+  "id": "osm-way-396270133",
+  "name": "St. Mark's Episcopal School",
+  "kind": "school",
+  "lat": 29.7066949,
+  "lon": -95.4387219,
+  "source_url": "https://www.openstreetmap.org/way/396270133"
+ },
+ {
+  "id": "osm-way-396270528",
+  "name": "Kolter Elementary School",
+  "kind": "school",
+  "lat": 29.6737998,
+  "lon": -95.4675908,
+  "source_url": "https://www.openstreetmap.org/way/396270528"
+ },
+ {
+  "id": "osm-way-396272342",
+  "name": "Red Elementary School",
+  "kind": "school",
+  "lat": 29.6667908,
+  "lon": -95.4550685,
+  "source_url": "https://www.openstreetmap.org/way/396272342"
+ },
+ {
+  "id": "osm-way-398200985",
+  "name": "Houston Fire Department Station 33",
+  "kind": "fire_station",
+  "lat": 29.7001783,
+  "lon": -95.401386,
+  "source_url": "https://www.openstreetmap.org/way/398200985"
+ },
+ {
+  "id": "osm-way-401012928",
+  "name": "Best Elementary School",
+  "kind": "school",
+  "lat": 29.6718956,
+  "lon": -95.5519727,
+  "source_url": "https://www.openstreetmap.org/way/401012928"
+ },
+ {
+  "id": "osm-way-401069636",
+  "name": "Ed White Elementary School",
+  "kind": "school",
+  "lat": 29.6959265,
+  "lon": -95.5428118,
+  "source_url": "https://www.openstreetmap.org/way/401069636"
+ },
+ {
+  "id": "osm-way-401069640",
+  "name": "Bush Elementary School",
+  "kind": "school",
+  "lat": 29.701485,
+  "lon": -95.5536305,
+  "source_url": "https://www.openstreetmap.org/way/401069640"
+ },
+ {
+  "id": "osm-way-426628324",
+  "name": "Shriners Hospitals for Children \u2014 Houston",
+  "kind": "hospital",
+  "lat": 29.7043796,
+  "lon": -95.4056703,
+  "source_url": "https://www.openstreetmap.org/way/426628324"
+ },
+ {
+  "id": "osm-way-457272437",
+  "name": "Collins Elementary School",
+  "kind": "school",
+  "lat": 29.7104086,
+  "lon": -95.5548702,
+  "source_url": "https://www.openstreetmap.org/way/457272437"
+ },
+ {
+  "id": "osm-way-460668432",
+  "name": "Harmony Science Academy",
+  "kind": "school",
+  "lat": 29.6758035,
+  "lon": -95.4791495,
+  "source_url": "https://www.openstreetmap.org/way/460668432"
+ },
+ {
+  "id": "osm-way-460670067",
+  "name": "Cl\u00ednica Hispana Cruz #3",
+  "kind": "clinic",
+  "lat": 29.6756494,
+  "lon": -95.4774432,
+  "source_url": "https://www.openstreetmap.org/way/460670067"
+ },
+ {
+  "id": "osm-way-464726435",
+  "name": "Condit Elementary School",
+  "kind": "school",
+  "lat": 29.7032356,
+  "lon": -95.4673296,
+  "source_url": "https://www.openstreetmap.org/way/464726435"
+ },
+ {
+  "id": "osm-way-506484516",
+  "name": "The Saint Constantine School",
+  "kind": "school",
+  "lat": 29.714931,
+  "lon": -95.5079442,
+  "source_url": "https://www.openstreetmap.org/way/506484516"
+ },
+ {
+  "id": "osm-way-521384711",
+  "name": "Carlyle Place Apartments",
+  "kind": "nursing_home",
+  "lat": 29.6584185,
+  "lon": -95.5065065,
+  "source_url": "https://www.openstreetmap.org/way/521384711"
+ },
+ {
+  "id": "osm-way-530002829",
+  "name": "Trafton Academy",
+  "kind": "school",
+  "lat": 29.66745,
+  "lon": -95.4571945,
+  "source_url": "https://www.openstreetmap.org/way/530002829"
+ },
+ {
+  "id": "osm-way-550433958",
+  "name": "Episcopal High School",
+  "kind": "school",
+  "lat": 29.7143721,
+  "lon": -95.4576574,
+  "source_url": "https://www.openstreetmap.org/way/550433958"
+ },
+ {
+  "id": "osm-way-550433971",
+  "name": "The Post Oak School",
+  "kind": "school",
+  "lat": 29.7143813,
+  "lon": -95.4563588,
+  "source_url": "https://www.openstreetmap.org/way/550433971"
+ },
+ {
+  "id": "osm-way-554288607",
+  "name": "St. Thomas",
+  "kind": "school",
+  "lat": 29.6855167,
+  "lon": -95.464759,
+  "source_url": "https://www.openstreetmap.org/way/554288607"
+ },
+ {
+  "id": "osm-way-567813747",
+  "name": "Baylor College of Medicine McNair Campus",
+  "kind": "hospital",
+  "lat": 29.6995696,
+  "lon": -95.3943125,
+  "source_url": "https://www.openstreetmap.org/way/567813747"
+ },
+ {
+  "id": "osm-way-567813753",
+  "name": "Michael E. DeBakey VA Medical Center",
+  "kind": "hospital",
+  "lat": 29.7021663,
+  "lon": -95.3889117,
+  "source_url": "https://www.openstreetmap.org/way/567813753"
+ },
+ {
+  "id": "osm-way-567855233",
+  "name": "Sun Behavioral Houston",
+  "kind": "hospital",
+  "lat": 29.6926913,
+  "lon": -95.3985009,
+  "source_url": "https://www.openstreetmap.org/way/567855233"
+ },
+ {
+  "id": "osm-way-567866262",
+  "name": "Texas Orthopedic Hospital",
+  "kind": "hospital",
+  "lat": 29.7001799,
+  "lon": -95.4090954,
+  "source_url": "https://www.openstreetmap.org/way/567866262"
+ },
+ {
+  "id": "osm-way-567983582",
+  "name": "Memorial Hermann Southwest Hospital",
+  "kind": "hospital",
+  "lat": 29.6938465,
+  "lon": -95.5224822,
+  "source_url": "https://www.openstreetmap.org/way/567983582"
+ },
+ {
+  "id": "osm-way-584689493",
+  "name": "Braeburn Elementary School",
+  "kind": "school",
+  "lat": 29.6955635,
+  "lon": -95.4878159,
+  "source_url": "https://www.openstreetmap.org/way/584689493"
+ },
+ {
+  "id": "osm-way-597306771",
+  "name": "Houston Methodist Hospital",
+  "kind": "hospital",
+  "lat": 29.7109151,
+  "lon": -95.3994383,
+  "source_url": "https://www.openstreetmap.org/way/597306771"
+ },
+ {
+  "id": "osm-way-620138010",
+  "name": "KIPP",
+  "kind": "school",
+  "lat": 29.7063104,
+  "lon": -95.5020507,
+  "source_url": "https://www.openstreetmap.org/way/620138010"
+ },
+ {
+  "id": "osm-way-620139015",
+  "name": "Energized for Excellence Academy",
+  "kind": "school",
+  "lat": 29.6959117,
+  "lon": -95.4900686,
+  "source_url": "https://www.openstreetmap.org/way/620139015"
+ },
+ {
+  "id": "osm-way-620141768",
+  "name": "Sharpstown High School",
+  "kind": "school",
+  "lat": 29.6848418,
+  "lon": -95.5155613,
+  "source_url": "https://www.openstreetmap.org/way/620141768"
+ },
+ {
+  "id": "osm-way-620145414",
+  "name": "Sharpstown International School",
+  "kind": "school",
+  "lat": 29.6987802,
+  "lon": -95.531731,
+  "source_url": "https://www.openstreetmap.org/way/620145414"
+ },
+ {
+  "id": "osm-way-626442980",
+  "name": "Holly Hall Retirement Community",
+  "kind": "nursing_home",
+  "lat": 29.683865,
+  "lon": -95.4015899,
+  "source_url": "https://www.openstreetmap.org/way/626442980"
+ },
+ {
+  "id": "osm-way-628664323",
+  "name": "Rodgriguez Elementary School",
+  "kind": "school",
+  "lat": 29.7189426,
+  "lon": -95.4779701,
+  "source_url": "https://www.openstreetmap.org/way/628664323"
+ },
+ {
+  "id": "osm-way-630343302",
+  "name": "Veritas Christian Academy of Houston",
+  "kind": "school",
+  "lat": 29.7028279,
+  "lon": -95.4733332,
+  "source_url": "https://www.openstreetmap.org/way/630343302"
+ },
+ {
+  "id": "osm-way-662095731",
+  "name": "Houston Fire Department Station 21",
+  "kind": "fire_station",
+  "lat": 29.6704301,
+  "lon": -95.4328278,
+  "source_url": "https://www.openstreetmap.org/way/662095731"
+ },
+ {
+  "id": "osm-way-671838881",
+  "name": "Roberts Elementary School",
+  "kind": "school",
+  "lat": 29.711608,
+  "lon": -95.4118755,
+  "source_url": "https://www.openstreetmap.org/way/671838881"
+ },
+ {
+  "id": "osm-way-693330110",
+  "name": "Behavioral Hospital of Bellaire",
+  "kind": "hospital",
+  "lat": 29.7083708,
+  "lon": -95.4733658,
+  "source_url": "https://www.openstreetmap.org/way/693330110"
+ },
+ {
+  "id": "osm-way-693331308",
+  "name": "West Oaks Hospital",
+  "kind": "hospital",
+  "lat": 29.7095616,
+  "lon": -95.4979607,
+  "source_url": "https://www.openstreetmap.org/way/693331308"
+ },
+ {
+  "id": "osm-way-1064940326",
+  "name": "Fresenius Kidney Care",
+  "kind": "clinic",
+  "lat": 29.6729347,
+  "lon": -95.4578887,
+  "source_url": "https://www.openstreetmap.org/way/1064940326"
+ },
+ {
+  "id": "osm-way-1065983128",
+  "name": "Houston Fire Department Station 82",
+  "kind": "fire_station",
+  "lat": 29.6579336,
+  "lon": -95.5114216,
+  "source_url": "https://www.openstreetmap.org/way/1065983128"
+ },
+ {
+  "id": "osm-way-1066288093",
+  "name": "Southwest Houston Dialysis Center",
+  "kind": "clinic",
+  "lat": 29.6648935,
+  "lon": -95.5258611,
+  "source_url": "https://www.openstreetmap.org/way/1066288093"
+ },
+ {
+  "id": "osm-way-1071299083",
+  "name": "Houston Fire Department Station 51",
+  "kind": "fire_station",
+  "lat": 29.70529,
+  "lon": -95.504893,
+  "source_url": "https://www.openstreetmap.org/way/1071299083"
+ },
+ {
+  "id": "osm-way-1100676564",
+  "name": "Robert M. Beren Academy",
+  "kind": "school",
+  "lat": 29.6533601,
+  "lon": -95.4525074,
+  "source_url": "https://www.openstreetmap.org/way/1100676564"
+ },
+ {
+  "id": "osm-way-1100989290",
+  "name": "Parker Elementary School",
+  "kind": "school",
+  "lat": 29.6655972,
+  "lon": -95.483424,
+  "source_url": "https://www.openstreetmap.org/way/1100989290"
+ },
+ {
+  "id": "osm-way-1103709428",
+  "name": "Paradigm at Westbury",
+  "kind": "nursing_home",
+  "lat": 29.6552102,
+  "lon": -95.4700821,
+  "source_url": "https://www.openstreetmap.org/way/1103709428"
+ },
+ {
+  "id": "osm-way-1107207013",
+  "name": "Caring Foot & Ankle Specialists",
+  "kind": "clinic",
+  "lat": 29.6559337,
+  "lon": -95.4769267,
+  "source_url": "https://www.openstreetmap.org/way/1107207013"
+ },
+ {
+  "id": "osm-way-1267544072",
+  "name": "Braeswood Estates Senior Living",
+  "kind": "nursing_home",
+  "lat": 29.69515,
+  "lon": -95.4175853,
+  "source_url": "https://www.openstreetmap.org/way/1267544072"
+ },
+ {
+  "id": "osm-way-1324238004",
+  "name": "Hilcroft Physicians",
+  "kind": "clinic",
+  "lat": 29.7122642,
+  "lon": -95.4950594,
+  "source_url": "https://www.openstreetmap.org/way/1324238004"
+ },
+ {
+  "id": "osm-way-1326139703",
+  "name": "Yeshiva Torat Emet",
+  "kind": "school",
+  "lat": 29.6549328,
+  "lon": -95.5114652,
+  "source_url": "https://www.openstreetmap.org/way/1326139703"
+ },
+ {
+  "id": "osm-way-1326188732",
+  "name": "Tinsley Elementary",
+  "kind": "school",
+  "lat": 29.6587664,
+  "lon": -95.4996414,
+  "source_url": "https://www.openstreetmap.org/way/1326188732"
+ },
+ {
+  "id": "osm-way-1326192879",
+  "name": "Goldberg B\u2019nai B\u2019rith Towers",
+  "kind": "nursing_home",
+  "lat": 29.6626122,
+  "lon": -95.5071688,
+  "source_url": "https://www.openstreetmap.org/way/1326192879"
+ },
+ {
+  "id": "osm-way-1327046084",
+  "name": "Valley West Elementary School",
+  "kind": "school",
+  "lat": 29.6631721,
+  "lon": -95.5262308,
+  "source_url": "https://www.openstreetmap.org/way/1327046084"
+ },
+ {
+  "id": "osm-way-1327047732",
+  "name": "Lone Star Living",
+  "kind": "nursing_home",
+  "lat": 29.6637259,
+  "lon": -95.530614,
+  "source_url": "https://www.openstreetmap.org/way/1327047732"
+ },
+ {
+  "id": "osm-way-1360442510",
+  "name": "Michael E. DeBakey High School for Health Professions",
+  "kind": "school",
+  "lat": 29.7049292,
+  "lon": -95.4082966,
+  "source_url": "https://www.openstreetmap.org/way/1360442510"
+ },
+ {
+  "id": "osm-way-1385869669",
+  "name": "The Heritage of Meyerland",
+  "kind": "nursing_home",
+  "lat": 29.673372,
+  "lon": -95.4563035,
+  "source_url": "https://www.openstreetmap.org/way/1385869669"
+ },
+ {
+  "id": "osm-way-1386041784",
+  "name": "The Tradition on Buffalo Speedway",
+  "kind": "nursing_home",
+  "lat": 29.6843875,
+  "lon": -95.4258548,
+  "source_url": "https://www.openstreetmap.org/way/1386041784"
+ },
+ {
+  "id": "osm-way-1386631938",
+  "name": "YES Prep Gulfton Secondary",
+  "kind": "school",
+  "lat": 29.7067506,
+  "lon": -95.4981754,
+  "source_url": "https://www.openstreetmap.org/way/1386631938"
+ },
+ {
+  "id": "osm-way-1387398939",
+  "name": "Montessori Learning Institute",
+  "kind": "school",
+  "lat": 29.691203,
+  "lon": -95.4957034,
+  "source_url": "https://www.openstreetmap.org/way/1387398939"
+ },
+ {
+  "id": "osm-way-1396131370",
+  "name": "BakerRipley Head Start",
+  "kind": "school",
+  "lat": 29.6582626,
+  "lon": -95.4978334,
+  "source_url": "https://www.openstreetmap.org/way/1396131370"
+ },
+ {
+  "id": "osm-way-1412569865",
+  "name": "Clarewood House",
+  "kind": "nursing_home",
+  "lat": 29.7106582,
+  "lon": -95.5146541,
+  "source_url": "https://www.openstreetmap.org/way/1412569865"
+ },
+ {
+  "id": "osm-way-1413546752",
+  "name": "SER-Ni\u00f1os Elementary II",
+  "kind": "school",
+  "lat": 29.7067551,
+  "lon": -95.485765,
+  "source_url": "https://www.openstreetmap.org/way/1413546752"
+ },
+ {
+  "id": "osm-way-1415504964",
+  "name": "Houston Fire Department Station 10",
+  "kind": "fire_station",
+  "lat": 29.7065914,
+  "lon": -95.5519434,
+  "source_url": "https://www.openstreetmap.org/way/1415504964"
+ },
+ {
+  "id": "osm-way-1416413148",
+  "name": "Lafayette Plaza",
+  "kind": "nursing_home",
+  "lat": 29.7104241,
+  "lon": -95.5126806,
+  "source_url": "https://www.openstreetmap.org/way/1416413148"
+ },
+ {
+  "id": "osm-way-1416666168",
+  "name": "Benavidez Elementary School",
+  "kind": "school",
+  "lat": 29.7173157,
+  "lon": -95.4921621,
+  "source_url": "https://www.openstreetmap.org/way/1416666168"
+ },
+ {
+  "id": "osm-way-1417885433",
+  "name": "Creekbend Gardens",
+  "kind": "nursing_home",
+  "lat": 29.6660674,
+  "lon": -95.5220213,
+  "source_url": "https://www.openstreetmap.org/way/1417885433"
+ },
+ {
+  "id": "osm-way-1425207563",
+  "name": "Mistral Early Childhood Center",
+  "kind": "school",
+  "lat": 29.7013475,
+  "lon": -95.4917296,
+  "source_url": "https://www.openstreetmap.org/way/1425207563"
+ },
+ {
+  "id": "osm-way-1426337490",
+  "name": "\u00c9toile Academy Charter School",
+  "kind": "school",
+  "lat": 29.7095361,
+  "lon": -95.4997349,
+  "source_url": "https://www.openstreetmap.org/way/1426337490"
+ },
+ {
+  "id": "osm-way-1428327942",
+  "name": "Red Apple Pre School and Day Care",
+  "kind": "school",
+  "lat": 29.6829337,
+  "lon": -95.5154855,
+  "source_url": "https://www.openstreetmap.org/way/1428327942"
+ },
+ {
+  "id": "osm-way-1428802362",
+  "name": "Lighthouse Living Center II",
+  "kind": "nursing_home",
+  "lat": 29.6864576,
+  "lon": -95.5266379,
+  "source_url": "https://www.openstreetmap.org/way/1428802362"
+ },
+ {
+  "id": "osm-way-1435429605",
+  "name": "Westbury Christian School",
+  "kind": "school",
+  "lat": 29.6675039,
+  "lon": -95.4949643,
+  "source_url": "https://www.openstreetmap.org/way/1435429605"
+ },
+ {
+  "id": "osm-way-1436831246",
+  "name": "St. Vincent de Paul",
+  "kind": "school",
+  "lat": 29.7048768,
+  "lon": -95.4285326,
+  "source_url": "https://www.openstreetmap.org/way/1436831246"
+ },
+ {
+  "id": "osm-way-1499110319",
+  "name": "The Emery/Weiner School",
+  "kind": "school",
+  "lat": 29.675634,
+  "lon": -95.4383035,
+  "source_url": "https://www.openstreetmap.org/way/1499110319"
+ },
+ {
+  "id": "osm-way-1520527108",
+  "name": "STEP Charter School Bissonnet",
+  "kind": "school",
+  "lat": 29.6793074,
+  "lon": -95.5254959,
+  "source_url": "https://www.openstreetmap.org/way/1520527108"
+ },
+ {
+  "id": "osm-way-1529506189",
+  "name": "St. Francis de Sales Catholic School",
+  "kind": "school",
+  "lat": 29.7006518,
+  "lon": -95.5290644,
+  "source_url": "https://www.openstreetmap.org/way/1529506189"
+ },
+ {
+  "id": "osm-way-1532516916",
+  "name": "The Village of Meyerland",
+  "kind": "nursing_home",
+  "lat": 29.6894263,
+  "lon": -95.4448692,
+  "source_url": "https://www.openstreetmap.org/way/1532516916"
+ },
+ {
+  "id": "osm-relation-17404793",
+  "name": "Garden Terrace at Houston",
+  "kind": "nursing_home",
+  "lat": 29.6915311,
+  "lon": -95.3918938,
+  "source_url": "https://www.openstreetmap.org/relation/17404793"
+ },
+ {
+  "id": "osm-relation-19128005",
+  "name": "Holy Ghost School",
+  "kind": "school",
+  "lat": 29.7042788,
+  "lon": -95.4769802,
+  "source_url": "https://www.openstreetmap.org/relation/19128005"
+ },
+ {
+  "id": "osm-relation-19328331",
+  "name": "Saint Thomas More School",
+  "kind": "school",
+  "lat": 29.6687252,
+  "lon": -95.4943069,
+  "source_url": "https://www.openstreetmap.org/relation/19328331"
+ },
+ {
+  "id": "osm-relation-20380489",
+  "name": "Memorial Hermann-Texas Medical Center",
+  "kind": "hospital",
+  "lat": 29.7133933,
+  "lon": -95.3956926,
+  "source_url": "https://www.openstreetmap.org/relation/20380489"
+ }
+]

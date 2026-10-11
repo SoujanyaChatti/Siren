@@ -1,0 +1,7 @@
+[
+  {"id": "normal", "label": "1. Before", "time": "2024-09-25T21:30:00Z", "note": "Rivers low before the predecessor rain event."},
+  {"id": "rising", "label": "2. First surge", "time": "2024-09-25T23:15:00Z", "note": "2.8 in of rain in an hour at the airport; the Swannanoa jumps."},
+  {"id": "warning", "label": "3. Helene arrives", "time": "2024-09-27T09:00:00Z", "note": "Both rivers climbing past moderate flood stage."},
+  {"id": "photo", "label": "4. Photo", "time": "2024-09-27T13:30:00Z", "note": "Swannanoa over 20 ft; photo report in Biltmore Village."},
+  {"id": "recede", "label": "5. Gauge goes silent", "time": "2024-09-27T18:30:00Z", "note": "The Swannanoa gauge stops reporting at the peak: SIREN shows data missing, never 'safe'."}
+]

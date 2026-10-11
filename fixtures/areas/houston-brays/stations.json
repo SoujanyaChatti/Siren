@@ -1,0 +1,56 @@
+{
+  "gauges": [
+    {
+      "station_id": "GSST2",
+      "usgs_id": "08074810",
+      "name": "Brays Bayou at Gessner Dr",
+      "lat": 29.6725,
+      "lon": -95.528055555556,
+      "flood_stages_ft": {
+        "action": 54,
+        "minor": 57,
+        "moderate": 58,
+        "major": 59
+      },
+      "flood_stages_source": "https://water.noaa.gov/gauges/gsst2",
+      "short": {
+        "en": "Brays Bayou at Gessner",
+        "es": "Brays Bayou en Gessner"
+      }
+    },
+    {
+      "station_id": "HBMT2",
+      "usgs_id": "08075000",
+      "name": "Brays Bayou at Main St (Houston)",
+      "lat": 29.696944444444,
+      "lon": -95.411944444444,
+      "flood_stages_ft": {
+        "action": 38,
+        "minor": 41,
+        "moderate": 42,
+        "major": 43
+      },
+      "flood_stages_source": "https://water.noaa.gov/gauges/hbmt2",
+      "short": {
+        "en": "Brays Bayou at Main St",
+        "es": "Brays Bayou en Main St"
+      }
+    }
+  ],
+  "rain": [
+    {
+      "station_id": "SGR",
+      "name": "Sugar Land Regional Airport (NWS ASOS)",
+      "lat": 29.6223,
+      "lon": -95.6565,
+      "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=SGR&network=TX_ASOS"
+    },
+    {
+      "station_id": "HOU",
+      "name": "Houston Hobby Airport (NWS ASOS)",
+      "lat": 29.6375,
+      "lon": -95.2824,
+      "source_url": "https://mesonet.agron.iastate.edu/sites/site.php?station=HOU&network=TX_ASOS"
+    }
+  ]
+}

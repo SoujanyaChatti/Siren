@@ -1,0 +1,178 @@
+[
+  {
+    "file": "fema_houston_2017.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:FEMA_-_IMG_0401MEB_-_Cars_Floating_in_Houston_Street.jpg",
+    "license": "Public domain (FEMA / Dominick Del Vecchio)",
+    "true_low_in": 15,
+    "true_high_in": 24,
+    "basis": "SUV tire roughly two-thirds submerged (also the demo photo)"
+  },
+  {
+    "file": "harvey_houston_2017_carport.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Hurricane-Tropical_Storm_Harvey_in_Houston_-_August_27_2017_AM_(36032717833).jpg",
+    "license": "CC BY 2.0, R. Crap Mariner",
+    "true_low_in": 13,
+    "true_high_in": 19,
+    "basis": "subcompact sedan, water just above wheel-hub height on the rear tire; parking lot, not a road"
+  },
+  {
+    "file": "kuala_lumpur_2007.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Flooding-Kuala-Lumpur-20070217-006.jpg",
+    "license": "CC0, Gary Houston",
+    "true_low_in": 5,
+    "true_high_in": 12,
+    "basis": "hatchback moving through water below the door sill, roughly the lower third of the tire"
+  },
+  {
+    "file": "merida_sedan.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Car_Crossing_Flooded_Intersection,_M%C3%A9rida,_Yucat%C3%A1n.jpg",
+    "license": "CC BY 2.0, edenpictures (Flickr)",
+    "true_low_in": 2,
+    "true_high_in": 7,
+    "basis": "sedan crossing a flooded intersection; waterline covers only the lowest part of the tires (well below the wheel hub), splash at the front wheel"
+  },
+  {
+    "file": "newport_st_smart_car.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Flooded_Newport_Street_-_geograph.org.uk_-_3852908.jpg",
+    "license": "CC BY-SA 2.0, Philip Halling (Geograph)",
+    "true_low_in": 16,
+    "true_high_in": 24,
+    "basis": "Smart ForTwo seen from behind: rear wheels fully hidden, water up to the rear bumper just below the number plate"
+  },
+  {
+    "file": "flooded_street_minivan_sedans.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Flooded_street_and_vehicles.JPG",
+    "license": "CC0, MarkBuckawicki",
+    "true_low_in": 8,
+    "true_high_in": 14,
+    "basis": "Toyota Sienna minivan with water just below the lower edge of its front bumper / fog lamps; adjacent Honda sedan's front tire roughly half submerged"
+  },
+  {
+    "file": "mumbai_2017_rickshaw_motorbike.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Flooding_in_Mumbai,_India_2017.jpg",
+    "license": "CC BY-SA 4.0, Paasikivi",
+    "true_low_in": 4,
+    "true_high_in": 10,
+    "basis": "auto-rickshaw and motorbike wheels roughly one-third to half submerged on a busy road (small wheels, so shallow); low-resolution 720px image"
+  },
+  {
+    "file": "rivers_state_nigeria_road.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Vehicles_plying_flooded_road_in_Rivers_State.jpg",
+    "license": "CC BY-SA 4.0, Soulmender (Chinomso Nzenwa)",
+    "true_low_in": 2,
+    "true_high_in": 7,
+    "basis": "Toyota SUV and sedans on a flooded road; water covers only the bottom quarter or less of the SUV's tires"
+  },
+  {
+    "file": "vicenza_2010_hatchback.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Vicenza_flooding_Nov.1,_2010.jpg",
+    "license": "CC BY 2.0, US Army Africa (Flickr)",
+    "true_low_in": 14,
+    "true_high_in": 22,
+    "basis": "hatchback in the background flooded to just below its rear number plate, wheels hidden; armoured police vehicle's large wheels about one-third submerged"
+  },
+  {
+    "file": "harvey_houston_2017_civic_lot.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Hurricane-Tropical_Storm_Harvey_in_Houston_-_August_27_2017_AM_(36032737983).jpg",
+    "license": "CC BY 2.0, R. Crap Mariner",
+    "true_low_in": 12,
+    "true_high_in": 18,
+    "basis": "Honda Civic with water at the lower edge of the front number plate, wheels hidden; apartment parking lot, not a road"
+  },
+  {
+    "file": "harvey_houston_2017_echo_lot.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Hurricane-Tropical_Storm_Harvey_in_Houston_-_August_27_2017_PM_(36711414741).jpg",
+    "license": "CC BY 2.0, R. Crap Mariner",
+    "true_low_in": 12,
+    "true_high_in": 17,
+    "basis": "Toyota Echo sedan and GMC SUV with water at or slightly above wheel-hub height (top arc of tires still visible); apartment parking lot, not a road"
+  },
+  {
+    "file": "harvey_kirkfair_dr_pickup.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Hurricane_Harvey_flooding_on_Kirkfair_Drive.jpg",
+    "license": "CC BY-SA 4.0, Michael Slaten",
+    "true_low_in": 5,
+    "true_high_in": 10,
+    "basis": "full-size pickup on a flooded street with water over roughly the bottom quarter to third of its tires; man standing beside it is about shin-deep"
+  },
+  {
+    "file": "harvey_texas_guard_wading.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Texas_Army_National_Guard_Hurricane_Harvey_Response.jpg",
+    "license": "Public domain (U.S. Army photo by 1st Lt. Zachary West)",
+    "true_low_in": 14,
+    "true_high_in": 22,
+    "basis": "soldiers wading on a flooded freeway; water reaches roughly just below the knee of the nearest adult (knee ~18-20 in)"
+  },
+  {
+    "file": "fema_texas_cobalt_sedan.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:FEMA_-_37218_-_Resident_pushing_a_car_through_flood_waters_in_Texas.jpg",
+    "license": "Public domain (FEMA / Jacinta Quesada)",
+    "true_low_in": 17,
+    "true_high_in": 23,
+    "basis": "Chevrolet Cobalt sedan with water well above the wheel hubs, only the top arc of the tires visible, just below the door sill; man standing beside it roughly knee-deep"
+  },
+  {
+    "file": "fema_puerto_rico_suv_edge.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:FEMA_-_39083_-_Flooded_street_in_Puerto_Rico.jpg",
+    "license": "Public domain (FEMA / Andrea Booher)",
+    "true_low_in": 0,
+    "true_high_in": 3,
+    "basis": "Ford Explorer at the edge of a flooded street: front tire just touching the water, rear tire on dry pavement (the near water is at most a couple of inches); deeper water further down the road is not the judged point"
+  },
+  {
+    "file": "katrina_new_orleans_2005_cars.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:NOCBD30Aug05Cars.jpg",
+    "license": "Public domain (FEMA / Marty Bahamonde)",
+    "true_low_in": 22,
+    "true_high_in": 32,
+    "basis": "Katrina, New Orleans CBD: sedans in the foreground with wheels fully submerged and water up to the rear bumper / just below the tail lights"
+  },
+  {
+    "file": "high_street_wading.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Flood_waters_rising_(1178).jpg",
+    "license": "CC BY-SA 2.0, John Dal (Flickr)",
+    "true_low_in": 3,
+    "true_high_in": 8,
+    "basis": "flooded town shopping street; adult pedestrians wading with water around the ankle to lower shin"
+  },
+  {
+    "file": "chennai_monsoon_motorbike.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:India_-_Chennai_-_Monsoon_-_02_(3059047958).jpg",
+    "license": "CC BY 2.0, McKay Savage",
+    "true_low_in": 5,
+    "true_high_in": 10,
+    "basis": "parked motorcycle on a flooded street with water covering roughly the bottom third of its wheels (below the axles)"
+  },
+  {
+    "file": "chennai_monsoon_ankle_deep.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:India_-_Chennai_-_Monsoon_-_08_(3059063220).jpg",
+    "license": "CC BY 2.0, McKay Savage",
+    "true_low_in": 2,
+    "true_high_in": 6,
+    "basis": "teenagers standing at a roadside stall with water at about ankle height, just over their shoes"
+  },
+  {
+    "file": "chennai_2015_nandanam_wading.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Chennai_flood_water_logging_near_ofice_nandanam6.jpg",
+    "license": "CC0, Vijayingarsal",
+    "true_low_in": 6,
+    "true_high_in": 12,
+    "basis": "three adults wading across a flooded city street with water at about mid-shin, below the knee"
+  },
+  {
+    "file": "fema_oklahoma_couple_wading.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:FEMA_-_31657_-_Couple_wading_though_flood_waters_in_Oklahoma.jpg",
+    "license": "Public domain (FEMA / Marvin Nauman)",
+    "true_low_in": 22,
+    "true_high_in": 30,
+    "basis": "adult couple wading with water at about mid-thigh, roughly a foot below the man's belt line; rural property / yard, not a road"
+  },
+  {
+    "file": "fema_oklahoma_waist_deep.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:FEMA_-_31870_-_Oklahoma_resident_wades_in_flood_water.jpg",
+    "license": "Public domain (FEMA / Marvin Nauman)",
+    "true_low_in": 32,
+    "true_high_in": 42,
+    "basis": "man wading on a flooded street with water at his waist; nearby SUV submerged to the hood and a roadside mailbox post submerged to just below the box (deep, judged as a range)"
+  }
+]

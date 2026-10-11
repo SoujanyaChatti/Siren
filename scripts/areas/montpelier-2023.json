@@ -1,0 +1,13 @@
+{
+  "id": "montpelier-2023",
+  "fetch_start": "2023-07-10T00:00:00Z",
+  "fetch_end": "2023-07-12T00:00:00Z",
+  "wfo": "BTV",
+  "bbox": [44.17, -72.66, 44.28, -72.54],
+  "gauges": [
+    {"station_id": "MONV1", "usgs_id": "04286000", "name": "Winooski River at Montpelier", "short_en": "Winooski River at Montpelier", "short_es": "Winooski River en Montpelier"},
+    {"station_id": "NFFV1", "usgs_id": "04287000", "name": "Dog River at Northfield Falls", "short_en": "Dog River at Northfield Falls", "short_es": "Dog River en Northfield Falls"}
+  ],
+  "rain": [{"station_id": "MPV", "network": "VT_ASOS", "name": "Barre-Montpelier Knapp State Airport (NWS ASOS)"}],
+  "route": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "houston-brays",
+  "fetch_start": "2024-07-08T02:00:00Z",
+  "fetch_end": "2024-07-08T21:00:00Z",
+  "wfo": "HGX",
+  "bbox": [29.655, -95.56, 29.72, -95.39],
+  "gauges": [
+    {"station_id": "GSST2", "usgs_id": "08074810", "name": "Brays Bayou at Gessner Dr", "short_en": "Brays Bayou at Gessner", "short_es": "Brays Bayou en Gessner"},
+    {"station_id": "HBMT2", "usgs_id": "08075000", "name": "Brays Bayou at Main St (Houston)", "short_en": "Brays Bayou at Main St", "short_es": "Brays Bayou en Main St"}
+  ],
+  "rain": [
+    {"station_id": "SGR", "network": "TX_ASOS", "name": "Sugar Land Regional Airport (NWS ASOS)"},
+    {"station_id": "HOU", "network": "TX_ASOS", "name": "Houston Hobby Airport (NWS ASOS)"}
+  ],
+  "route": {"persona": "maria", "home": [-95.4890, 29.6700], "work": [-95.4020, 29.7060],
+            "via_usual": [-95.4677, 29.6796], "via_safer": [-95.4650, 29.7060]}
+}

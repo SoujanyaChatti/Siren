@@ -1,0 +1,15 @@
+{
+  "id": "asheville-helene",
+  "fetch_start": "2024-09-25T21:00:00Z",
+  "fetch_end": "2024-09-27T23:00:00Z",
+  "wfo": "GSP",
+  "bbox": [35.54, -82.61, 35.62, -82.52],
+  "gauges": [
+    {"station_id": "AVLN7", "usgs_id": "03451500", "name": "French Broad River at Asheville", "short_en": "French Broad River at Asheville", "short_es": "French Broad River en Asheville"},
+    {"station_id": "BLTN7", "usgs_id": "03451000", "name": "Swannanoa River at Biltmore", "short_en": "Swannanoa River at Biltmore", "short_es": "Swannanoa River en Biltmore"}
+  ],
+  "rain": [
+    {"station_id": "AVL", "network": "NC_ASOS", "name": "Asheville Regional Airport (NWS ASOS)"}
+  ],
+  "route": null
+}
